@@ -1,0 +1,211 @@
+#packages{
+    position: relative;
+    height: 76.5rem;
+    min-width: 120rem;
+    background: url(../img/packages-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position-y: -13rem;
+}
+#packages::before{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 50%;
+    top: 0;
+    background: url(../img/pattern2.png);
+}
+#packages::after{
+    content: '';
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 50%;
+    bottom: 0;
+    background: #ffffff;
+}
+#packages .container{
+    position: relative;
+    z-index: 3;
+    padding: 10rem 0;
+    box-sizing: border-box;
+    border-bottom: 1px dashed #cbcbcb;
+}
+#packages .plan{
+    position: relative;
+    display: inline-block;
+    width: 25.5rem;
+    box-sizing: border-box;
+    margin-right: 5.7rem;
+    padding: 0 2.8rem 3.5rem;
+    background: #ffffff;
+    border-top: 0.5rem solid;
+    text-align: center;
+    box-shadow: 1.5px 2.598px 10px 0px rgba( 0, 0, 0, 0.06 );
+}
+#packages .plan.basic{
+    border-color: #f9d423;
+}
+#packages .plan.normal{
+    border-color: #7f8c8d;
+}
+#packages .plan.big{
+    border-color: #f85f40;
+}
+#packages .plan.biggest{
+    border-color: #1abc9c;
+    margin: 0;
+}
+#packages .plan h1{
+    position: relative;
+    margin-top: 3.5rem;
+    padding-bottom: 2rem;
+    font-family: 'Lato Bold', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #282828;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 1px solid #dfdfdf;
+}
+#packages .plan h1::before{
+    content: '';
+    display: flex;
+    width: 5.5rem;
+    height: 5.5rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 2rem;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+    border-radius: 50%;
+}
+#packages .plan h1::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+    height: 5.5rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 2rem;
+    font-family: 'Font Awesome';
+    font-size: 1.7rem;
+    box-sizing: border-box;
+    transition: font-size 0.2s ease-in-out;
+}
+#packages .plan.basic h1::before{
+    transform: rotate(45deg);
+    border-top-color: #f9d423;
+}
+#packages .plan.basic h1::after{
+    content: '\f13d';
+    color: #f9d423;
+}
+#packages .plan.normal h1::before{
+    transform: rotate(45deg);
+    border-top-color: #7f8c8d;
+    border-right-color: #7f8c8d;
+}
+#packages .plan.normal h1::after{
+    content: '\f123';
+    color: #7f8c8d;
+}
+#packages .plan.big h1::before{
+    transform: rotate(45deg);
+    border-top-color: #f85f40;
+    border-right-color: #f85f40;
+    border-bottom-color: #f85f40;
+}
+#packages .plan.big h1::after{
+    content: '\f005';
+    color: #f85f40;;
+}
+#packages .plan.biggest h1::before{
+    border-color: #1abc9c;
+}
+#packages .plan.biggest h1::after{
+    content: '\f219';
+    color: #1abc9c;
+}
+.plan ul{
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #dfdfdf;
+    text-align: left;
+}
+.plan li{
+    display: block;
+    width: 100%;
+    padding: 1.2rem 0;
+    font-family: 'Lato Light', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #b4b4b4;
+}
+.plan li span{
+    float: right;
+    font-family: 'Lato Semibold', Tahoma, sans-serif;
+    color: #f9d423;
+}
+.plan.normal li span{
+    color: #7f8c8d;
+}
+.plan.big li span{
+    color: #f85f40;
+}
+.plan.biggest li span{
+    color: #1abc9c;
+}
+.plan .price{
+    width: 10.5rem;
+    margin: 2.6rem auto 2rem;
+    padding: 0.8rem;
+    text-align: center;
+    border-bottom: 3px solid #f9d423;
+}
+.plan.normal .price{
+    border-color: #7f8c8d;
+}
+.plan.big .price{
+    border-color: #f85f40;
+}
+.plan.biggest .price{
+    border-color: #1abc9c;
+}
+.plan .price sup{
+    position: relative;
+    bottom: 0.7rem;
+    font-family: 'Lato Heavy', Tahoma, sans-serif;
+    font-size: 1.7rem;
+    color: #2c2c2c;
+}
+.plan .price sub{
+    position: relative;
+    right: 0.3rem;
+    font-family: 'Lato Regular', Tahoma, sans-serif;
+    font-size: 1.3rem;
+    color: #8d8d8d;
+}
+.plan .price span{
+    font-family: 'Lato Bold', Tahoma, sans-serif;
+    font-size: 2.8rem;
+    color: #2c2c2c;
+}
+.plan button{
+    font-family: 'Lato Bold', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #282828;
+    background: transparent;
+    cursor: pointer;
+}
+#packages .plan:hover ul{
+    animation: turn 0.5s;
+}
+#packages .plan:hover h1::after{
+    font-size: 5rem;
+}
+#packages .plan:hover h1::before{
+    border-color: transparent;
+}
+@keyframes turn {
+    50% { transform: rotateY(90deg); }   
+   }

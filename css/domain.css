@@ -1,0 +1,134 @@
+#domain{
+    position: relative;
+    padding: 9rem 0;
+    z-index: 2;
+    background: #ffffff;
+}
+#domain .wrapper{
+    position: relative;
+    max-width: 90rem;
+    width: 90rem;
+    margin: 0 auto;
+    padding: 0 0.5rem;
+}
+#domain h2{
+    font-family: 'Lato Heavy', Tahoma, sans-serif;
+    font-size: 2.4rem;
+    color: #383737;
+    text-align: center;
+}
+#domain .domain-description{
+    margin: 3.5rem 0 5rem;
+    font-family: 'Montserrat UltraLight', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #a2a2a2;
+    text-align: center;
+}
+.prices{
+    height: 19.4rem;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #d9d9d9;
+    font-family: 'Lato Medium', Tahoma, sans-serif;
+    color: #d9d9d9;
+}
+.odd td::after{
+    content: '';
+    position: absolute;
+    display: block;
+    width: 21rem;
+    border-bottom: 1px solid;
+    bottom: 0;
+    right: 0.6rem;
+}
+
+.odd td:first-child::after{
+    width: 19rem;
+    border-bottom: 1px solid;
+    bottom: 0;
+    right: 0.6rem;
+}
+.odd td:last-child::after{
+    width: 19rem;
+    border-bottom: 1px solid;
+    bottom: 0;
+    left: 0.6rem;
+}
+.prices td{
+    position: relative;
+    height: 7.4rem;
+    width: 22rem;
+    vertical-align: middle;
+    font-size: 1.4rem;
+    text-align: center;
+}
+.odd td::before{
+    content: '';
+    position: absolute;
+    bottom: 0.6rem;
+    display: block;
+    height: 7.4rem;
+    border-right: 1px solid;
+}
+.even td::before{
+    content: '';
+    position: absolute;
+    top: 0.6rem;
+    display: block;
+    height: 7.4rem;
+    border-right: 1px solid;
+}
+.odd td:first-child::before{
+    display: none;
+}
+.even td:first-child::before{
+    display: none;
+}
+#domain .searchbar{
+    width: 100%;
+    height: 5rem;
+    box-sizing: border-box;
+    padding: 0.8rem 0;
+    border: 1px solid #d9d9d9;
+    margin-bottom: 4rem;
+}
+#domain .searchbar span{
+    width: 7rem;
+    line-height: 3.2rem;
+    padding: 0 1.5rem;
+    font-family: 'Lato Regular', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #cbcbcb;
+}
+#domain .searchbar input{
+    width: 73rem;
+    height: 100%;
+    padding: 0 1.7rem;
+    box-sizing: border-box;
+    font-family: 'Lato Semibold', Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: #868686;
+    border-left: 1px solid #cbcbcb;
+    border-right: 1px solid #cbcbcb;
+}
+
+#domain select{
+    width: 8.5rem;
+    height: 100%;
+    border: 0;
+    padding: 0 1.5rem;
+    box-sizing: border-box;
+    -webkit-appearance: none; 
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../img/arrow.png) center right no-repeat;
+    background-origin: content-box; 
+    font-family: 'Lato Regular', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #cbcbcb;
+}
+#domain option{
+    width: 8.5rem;
+    display: inline-block;
+    overflow: hidden;
+}

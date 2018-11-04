@@ -1,0 +1,74 @@
+.functions{
+    display: flex;
+    padding-bottom: 9.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.function{
+    width: 23rem;
+    margin: 10rem 9.3rem 0 0;
+    font-size: 1.6rem;
+    transition: transform 0.05s;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+.function:nth-child(4n){
+    margin-right: 0;
+}
+.function:last-child{
+    margin-right: 0;
+}
+.function::before{
+    content: "";
+    display: flex;
+    width: 6rem;
+    height: 6rem;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Font Awesome';
+    font-size: 2.8rem;
+    color: #ffffff;
+    border-radius: 50%;
+}
+.function.fast::before{
+    content: "\f0e7";
+    background: #f1c40f;
+}
+.function.cloud::before{
+    content: "\f0c2";
+    background: #0faff1;
+}
+.function.transfer::before{
+    content: "\f047";
+    background: #95a5a6;
+}
+.function.support::before{
+    content: "\f086";
+    background: #f1540f;
+}
+.function h2{
+    padding-top: 2rem;
+    font-family: 'Lato Heavy', Tahoma, sans-serif;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #303030;
+}
+.function p{
+    padding-top: 1rem;
+    font-family: 'Lato Light', Tahoma, sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    text-align: center;
+    color: #7e7e7e;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.function:hover{
+    transform: scale(1.1);
+}
