@@ -1,0 +1,40 @@
+.banner{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 120rem;
+    height: 944px;
+    z-index: 2;
+    background: #000000;
+}
+.banner .container{
+    margin-top: 9rem;
+    text-align: center;
+}
+
+.banner::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: url(../img/banner.jpg) no-repeat center #000000;
+    background-size: cover;
+    opacity:  0.17;
+}
+.banner h1{
+    font-family: 'MyriadPro Bold', Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 7.2rem;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.banner-description{
+    margin-top: 1rem;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 3.2rem;
+    line-height: 4rem;
+    color: #ffffff;
+}

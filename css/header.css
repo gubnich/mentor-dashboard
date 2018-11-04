@@ -1,0 +1,34 @@
+.header{
+    position: absolute;
+    width: 100%;
+    height: 9rem;
+    z-index: 5;
+    font-family: 'Lato Medium', Tahoma, sans-serif;
+}
+.header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    box-sizing: border-box;
+    border-bottom: 0.1rem solid rgba(255, 255, 255, 0.15);
+}
+.header .logo img{
+    display: block;
+    height: 3rem;
+}
+.header nav{
+    display: flex;
+}
+.header nav a{
+    display: inline-block;
+    height: 9rem;
+    line-height: 9rem;
+    margin-left: 6.8rem;
+    font-size: 1.6rem;
+    color: #ffffff;
+    border-bottom: 1px solid transparent;
+}
+.header nav a:hover{
+    border-bottom: 1px solid #ffffff;
+}
