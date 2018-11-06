@@ -1,0 +1,87 @@
+.about{
+    height: 40rem;
+    padding: 10.5rem 0;
+    box-sizing: border-box;
+}
+.about article{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 52rem;
+    padding-right: 9rem;
+    box-sizing: border-box;
+    border-right: 1px dashed #dddddd;
+}
+.about article h2{
+    font-family: 'Lato Semibold', Tahoma, sans-serif;
+    font-size: 3.5rem;
+    color: #303030;
+}
+.about article h2 span{
+    font-family: 'Lato Black', Tahoma, sans-serif;
+}
+.about article p{
+    font-family: 'Lato Thin', Tahoma, sans-serif;
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    color: #747474;
+}
+.staff{
+    display: inline-block;
+    width: 67rem;
+    height: 19rem;
+    box-sizing: border-box;
+}
+.staff figure{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 15rem;
+    margin-left: 7rem;
+    font-family: 'Lato Semibold', Tahoma, sans-serif;
+    font-size: 1.7rem;
+    color: #303030;
+    text-align: center;
+}
+.staff figure img{
+    width: 9rem;
+    box-sizing: border-box;
+    border: 0.5rem solid #e5e5e5;
+    border-radius: 50%; 
+}
+.staff figcaption span{
+    display: block;
+    margin: 0.9rem;
+    text-align: center;
+}
+.staff figcaption span:last-child{
+    font-family: 'Lato Regular', Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: #8e8e8e;
+}
+.staff .social{
+    display: inline-block;
+    text-align: center;
+}
+.staff .social i{
+    margin: 0 0.7rem;
+    font-size: 1.4rem;
+    color: #bfbfbf;
+}
+.staff .social i:hover{
+    color: #1f89ba;
+    cursor: pointer;
+}
+.staff figure:hover img{
+    animation: roll 0.3s infinite;
+}
+@keyframes roll{
+    10% {transform: rotate(36deg);}
+    20% {transform: rotate(72deg);}
+    30% {transform: rotate(108deg);}
+    40% {transform: rotate(144deg);}
+    50% {transform: rotate(180deg);}
+    60% {transform: rotate(216deg);}
+    70% {transform: rotate(252deg);}
+    80% {transform: rotate(288deg);}
+    90% {transform: rotate(324deg);}
+    100% {transform: rotate(360deg);}
+}
