@@ -1,4 +1,5 @@
-const notifications = document.createElement('aside');
+if(Number(localStorage.getItem('flag'))){
+    const notifications = document.createElement('aside');
     const notice = document.createElement('div');
     const controls = document.createElement('div');
     const exit = document.createElement('div');
@@ -61,3 +62,78 @@ const notifications = document.createElement('aside');
         notice.innerHTML = (`<h6>${messages[number].header}</h6><p>${messages[number].text}</p>`);
     }
     insert(current);
+
+    messages.forEach((message, i) => {
+        let li = document.createElement('li');
+        li.addEventListener('click', event => {
+            list.querySelector('.active').removeAttribute('class');
+            insert(i);
+            current = i;
+            li.setAttribute('class','active');
+        });
+        list.appendChild(li);
+    })
+
+    list.firstChild.setAttribute('class', 'active');
+    let active;
+
+    function toleft(event) {
+        active =  list.querySelector('.active');
+        if(current) {
+            insert(current - 1);
+            current -= 1;
+            active.previousSibling.setAttribute('class', 'active');
+            active.removeAttribute('class');    
+            return;
+        }
+        insert(messages.length - 1);
+        current = messages.length - 1;
+        list.lastChild.setAttribute('class', 'active');
+        active.removeAttribute('class'); 
+    }
+
+    function toright(event) {
+        active =  list.querySelector('.active');
+        if(current === messages.length - 1) {
+            insert(0);
+            current = 0;
+            list.firstChild.setAttribute('class', 'active');
+            active.removeAttribute('class');  
+            return;
+        }
+        insert(current + 1);
+        current += 1;
+        active.nextSibling.setAttribute('class', 'active');
+        active.removeAttribute('class');  
+    }
+
+    function quit(event) {
+        notifications.setAttribute('class', 'hide');
+    }
+
+    leftControl.addEventListener( 'click', toleft);
+
+    rightControl.addEventListener( 'click', toright);
+
+    exit.addEventListener('click', quit);
+
+    checkbox.addEventListener('change', event => {
+        if(checkbox.checked) {
+            localStorage.setItem('flag', '0');
+            return;
+        };
+        localStorage.setItem('flag', 1);
+    })
+    
+    notifications.addEventListener('keydown', event => {
+        if(event.keyCode == 37){
+            toleft();
+        };
+        if(event.keyCode == 39){
+            toright();
+        };
+        if(event.keyCode == 27){
+            quit();
+        };
+    })
+}

@@ -7,15 +7,94 @@ aside.notifications{
     padding: 0.5rem;
     background: rgba(160, 160, 160, 0.5)
 }
+aside.notifications.hide{
+    display: none;
+}
+.notifications-exit{
+    position: absolute;
+    width: 2em;
+    right: 0;
+    line-height: 2em;
+    z-index: 10001;
+    margin-right: 0.5em;
+    text-align: center;
+    cursor: pointer;
+}
 .notifications-notice{
     background: #ffffff;
     overflow: hidden;
+
 }
 .notifications-controls{
-    background: #ffffff;
+    background: white;
     height: 3rem;
     padding: 1rem 0;
     box-sizing: border-box;
     margin: 0;
     padding: 1rem;
+}
+.notifications-controls label{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    height: 1rem;
+}
+.notifications-controls span{
+    float: right;
+    width: 1rem;
+    cursor: pointer;
+    text-align: center;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.notifications-controls span:last-child{
+    margin-right: 0.5rem;
+}
+.notifications-controls div{
+    float: right;
+}
+.notifications-controls ul{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.notifications-controls ul li{
+    margin-right: 0.5rem;
+    cursor: pointer;
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    border: 1px solid;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.notifications-controls ul li.active{
+    background: #558565;
+}
+.notifications-notice{
+    background: #ffffff;
+    height: 11rem;
+    margin-top: 2rem;
+    padding: 1rem;
+    overflow: auto;
+}
+.notifications-notice p{
+    animation: scale 0.2s;
+   transition: height 1s;
+   text-overflow: ellipsis;
+}
+.notifications-notice h6{
+    margin: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+@keyframes scale{
+    from{
+        transform: scale(0);
+    }
+    to{
+        transform: scale(1);
+    }
 }
