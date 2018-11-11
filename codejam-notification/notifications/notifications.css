@@ -1,0 +1,21 @@
+aside.notifications{
+    position: fixed;
+    z-index: 10000;
+    top: 1rem;
+    right: 1rem;
+    width: 25rem;
+    padding: 0.5rem;
+    background: rgba(160, 160, 160, 0.5)
+}
+.notifications-notice{
+    background: #ffffff;
+    overflow: hidden;
+}
+.notifications-controls{
+    background: #ffffff;
+    height: 3rem;
+    padding: 1rem 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1rem;
+}
