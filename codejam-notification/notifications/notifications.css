@@ -7,7 +7,7 @@ aside.notifications{
     padding: 0.5rem;
     background: rgba(160, 160, 160, 0.5)
 }
-aside.notifications.hide{
+aside.hide{
     display: none;
 }
 .notifications-exit{
