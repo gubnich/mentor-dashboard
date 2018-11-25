@@ -1,19 +1,15 @@
 @media screen and (max-width: 1100px){
     .carousel li{
-        -flex-basis: calc(100% /3);
-        width: calc(100% /3);
-
+        width: calc(100% / 3);
     }
 }
 @media screen and (max-width: 1000px){
     .carousel li{
-        -flex-basis: calc(100% /2);
-        width: calc(100% /2);
+        width: calc(100% / 2);
     }
 }
 @media screen and (max-width: 500px){
     .carousel li{
-        -flex-basis: calc(100% /2);
         width: 100%;
     }
     .search-bar input[type = text]{
@@ -22,14 +18,22 @@
 }
 @media screen and (min-width: 1200px){
     .carousel li{
-        -flex-basis: calc(100% /3);
-        width: calc(100% /4);
-
+        width: calc(100% / 4);
     }
 }
 *{
     margin: 0;
     padding: 0;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -ms-user-select: none;
+}
+img {
+    width: 100%;
+}
+a{
+    text-decoration: none;
 }
 html, body {
     width: 100%;
@@ -39,7 +43,6 @@ html, body {
 .wrapper {
     display: flex;
     flex-direction: column;
-    -flex-shrink: 1;
     width: 100%;
     height: 100%;
     padding: 2rem 0;
@@ -57,11 +60,12 @@ ul {
     min-height: 3rem;
     padding: 1rem;
 }
+.search-bar input{
+    outline: none;
+}
 .search-bar input[type = text]{
-    -width: 100%;
     padding: 0 1rem;
     font-size: 2rem;
-    -border: 1px solid #ffffff;
     border: none;
 }
 .search-bar input[type = submit]{
@@ -70,27 +74,20 @@ ul {
     background-position: center;
     background-size: 60%;
     border: 1px solid #eeeeee;
-    -border: none;
     background-color: #ffffff;
 }
 .carousel, .controls {
     display: flex;
     position: relative;
-    -flex-wrap: wrap;
     padding: 0;
-    -transform: translateX(-50px);
     transition: transform .1s;
-    -transition-timing-function: ease-out;
 }
 .controls {
-    -position: fixed;
     display: flex;
     width: 100%;
-    -bottom: 3rem;
     justify-content: center;
 }
 .carousel li{
-    -flex-basis: calc(100% /3);
     height: 400px;
     padding: 3%;
     flex-shrink: 0;
@@ -101,7 +98,6 @@ ul {
 }
 .carousel a{
     position: absolute;
-    -height: 100%;
     width: 100%;
     padding: 1rem;
     background: rgba(40, 43, 55, 0.4);
@@ -157,7 +153,6 @@ ul {
     height: 2rem;
     margin: 1rem;
 }
-
 .controls a {
     display: flex;
     position: relative;
@@ -197,16 +192,4 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-img {
-    width: 100%;
-}
-a{
-    text-decoration: none;
-}
-*{
-    user-select: none;
-    -moz-user-select: none;
-    -webkit-user-drag: none;
-    -ms-user-select: none;
 }
