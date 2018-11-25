@@ -16,7 +16,7 @@ document.body.prepend(body);
 function submit(event) {
   if (event) {
     event.preventDefault();
-    carousel.self.innerHTML = null;
+    carousel.self.innerHTML = '';
   }
   searchbar.youtube.search(searchbar.input.value).then(
     (result) => {
