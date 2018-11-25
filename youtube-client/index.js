@@ -16,7 +16,6 @@ document.body.prepend(body);
 function submit(event) {
   if (event) {
     event.preventDefault();
-    carousel.self.innerHTML = '';
   }
   searchbar.youtube.search(searchbar.input.value).then(
     (result) => {
@@ -39,8 +38,6 @@ function submit(event) {
         const controlsAmount = Math.round(searchbar.youtube.maxResults / carousel.clipsPerPage);
         pagination.updateControls(controlsAmount);
       }
-    },
-    (result) => {
     },
   );
 }
