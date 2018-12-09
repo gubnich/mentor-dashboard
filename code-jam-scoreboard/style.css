@@ -1,0 +1,44 @@
+#myChart{
+    width: 100%;
+}
+#control{
+    margin: 1rem 0;
+}
+.tooltip{
+    position: absolute;
+    display: none;
+}
+td:hover{
+    cursor: pointer;
+    background: rebeccapurple;
+    color: #ffffff;
+}
+td:last-child:hover{
+    background: none;
+    cursor: auto;
+}
+td:first-child:hover{
+    background: none;
+    cursor: auto;
+    color: inherit;
+}
+td:hover .tooltip{
+    display: block;
+    background: rebeccapurple;
+    padding: 1rem;
+    top: -100px;
+    white-space: nowrap;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+td{
+    position: relative;
+    border: 1px solid rebeccapurple;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    font-weight: bold;
+    background: #eeeeee;
+}

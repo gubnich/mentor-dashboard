@@ -8,11 +8,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <canvas id="myChart"></canvas>
     <form id="control">
-        <label><input type="radio" name="sessions" value="rsschool">rsschool</label> 
+        <label><input type="radio" name="sessions" value="rsschool" checked>rsschool</label> 
         <label><input type="radio" name="sessions" value="rsschool-demo">rsschool-demo</label> 
     </form>
     <table id="scoreTable"></table>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script src="chart.js" type="module"></script>
     <script src="index.js" type="module"></script>
 </body>
 </html>

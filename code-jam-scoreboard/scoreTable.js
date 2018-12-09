@@ -1,3 +1,5 @@
+import chart from './chart.js';
+
 function rsschool(session){
   const scoreTable = document.getElementById('scoreTable');
   const container = document.createDocumentFragment();
@@ -15,7 +17,7 @@ function rsschool(session){
     for(let k = 0; k < rsschool.puzzles.length; k++){
       const nextColumn = document.createElement('td');
       nextColumn.innerText = rsschool.puzzles[k].name;
-      //chart.data.labels.push(nextColumn.innerText);
+      chart.data.labels.push(nextColumn.innerText);
       puzzleColumns.append(nextColumn);
     }
     scoreTHeadRow.append(userColumn);

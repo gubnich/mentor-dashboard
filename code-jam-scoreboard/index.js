@@ -1,4 +1,5 @@
 import rsschool from './scoreTable.js';
+import chart from './chart.js';
 
 rsschool('rsschool.json');
 
@@ -6,8 +7,8 @@ const control = document.getElementById('control');
 control.addEventListener('mouseup', (event) => {
   if(event.target !== control){
       let session = event.target.value || event.target.querySelector('input').value;
-      //chart.data.datasets = [];
-      //chart.data.labels = [];
+      chart.data.datasets = [];
+      chart.data.labels = [];
       rsschool(`${session}.json`);
   }
 })
