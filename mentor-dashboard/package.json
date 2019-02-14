@@ -2,7 +2,7 @@
   "name": "mentor-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gubnich.github.io/myapp",
+  "homepage": "http://gubnich.github.io/mentor-dashboard",
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
