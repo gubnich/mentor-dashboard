@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://gubnich.github.io/mentor-dashboard",
   "dependencies": {
+    "node-xlsx": "^0.14.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.5"
@@ -14,7 +15,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "parser": "node parser.js"
   },
   "eslintConfig": {
     "extends": "react-app"
