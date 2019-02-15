@@ -80,7 +80,7 @@ scores.forEach(item => {
    
   }
 })
-fs.writeFile('src/school.json', JSON.stringify(school,null, ' '), function (err) {
+fs.writeFile('public/school.json', JSON.stringify(school, null, ' '), function (err) {
   if (err) throw err;
   console.log('Saved!');
 });
