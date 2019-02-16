@@ -1,26 +1,48 @@
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 ul {
     list-style: none;
+   
 }
 li {
-    padding: 0.5rem;
-
+    display: flex;
+    border-bottom: 1px solid;
+    align-items: center;
 }
 
 .App-body {
     display: flex;
 }
 .tasksList {
-    min-width: 18rem;
+    min-width: 15rem;
+}
+.tasksList li {
+    height: 2rem;
 }
 .Students-list {
     display: flex;
 }
+.student {
+    padding: 0;
+    flex-direction: column;
+    border: 0;
+}
+.student ul {
+    width: 100%;
+}
+.student li {
+    height: 2rem;
+    width: 100%;
+    justify-content: center;
+}
 .Student-name {
     display: flex;
     height: 2rem;
+    padding: 0.5rem;
+    border-bottom: 1px solid;
 }
 .emptyCell {
     height: 2rem;

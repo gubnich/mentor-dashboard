@@ -55,7 +55,7 @@ const mistakes = pairs.filter(item => item.length < 3)
 
 pairs.forEach(item => {
   if(school.mentors[item[2]]) {
-    school.mentors[item[2]].students[`${item[1]}`] = {score: []};
+    school.mentors[item[2]].students[`${item[1]}`] = {score: Array(school.tasks.names.length)};
     // console.log(school.mentors[item[2]].students);
   } else {
     console.log(item);
@@ -68,7 +68,7 @@ scores.forEach(item => {
   const studentLogin = getGitHubLogin(item[2]);
   const task = school.tasks.names.indexOf(item[3]);
   const student = mentor ? mentor.students[studentLogin] : 0;
-  
+ 
   const score = {
     linkPR: item[4].toString(),
     mark: item[5],
@@ -79,6 +79,9 @@ scores.forEach(item => {
   
    
   }
+   ////
+   if(studentLogin == 'apivovarchik') console.log(score);
+   ////
 })
 fs.writeFile('public/school.json', JSON.stringify(school, null, ' '), function (err) {
   if (err) throw err;
