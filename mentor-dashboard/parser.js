@@ -111,7 +111,7 @@ pairs.forEach(item => {
 scores.forEach((item, i) => {
   // const mentorLogin = getGitHubLogin(item[1]).toLowerCase();
   const mentorLogin = item[8];
-  const studentLogin = getGitHubLogin(item[2]);
+  const studentLogin = getGitHubLogin(item[2]).toLowerCase();
   let mentor;
   let task;
   let student;
