@@ -21,7 +21,7 @@ class App extends Component {
         return response.json()
       })
       .then(data => {
-        console.log('data', Object.keys(data.mentors));
+        console.log('data', data);
         const option = Object.keys(data.mentors).map(item => {
           return {value: item, label: item};
         })
@@ -50,16 +50,26 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
+      <div className="app">
+        <header className="appHeader">
           <Select options={this.state.options} 
                   onChange={this.handleChange}
                   // placeholder={''}
                   defaultValue={this.setDefaultMentor()}
+                  theme={(theme) => ({
+                    ...theme,
+                    borderRadius: 0,
+                    colors: {
+                    ...theme.colors,
+                    primary50: '#B9C1D4',
+                    primary: '#6477A0',
+                    neutral0: '#ECEEF3'
+                    },
+                  })}
                    />
           <button onClick={this.login}>login</button>
         </header>
-        <section className="App-body">
+        <section className="appBody">
           <Tasks data={this.state.data} />
           <Students data={this.state.data} mentor={this.state.currentMentor}/>
         </section>

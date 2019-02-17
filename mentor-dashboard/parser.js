@@ -131,6 +131,7 @@ scores.forEach((item, i) => {
     comment: item[6]
   }
   if (student && task >= 0) {
+    student.gitHubLink = item[2];
     student.score[task] = score;
     // console.log(i, student);
   }

@@ -9,7 +9,7 @@ function Mark(props) {
     case (props.status === 'Checking'): className = 'statusChecking'; break;
   }
   return (
-    <li className={className}>{ props.mark }</li>
+    <li className={className}><a href={props.link} title={props.comment}>{ props.mark }</a></li>
   )
 }
 

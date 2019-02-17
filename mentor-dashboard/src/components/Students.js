@@ -11,11 +11,13 @@ function Students(props) {
         { Object.keys(students).map((item, i) => {
           return (
             <li className="student" key={i}>
-              <span className="studentName">{item}</span>
+              <a href={students[item].gitHubLink} className="studentName">{item}</a>
               <ul className="studentMarks">
                 {students[item].score.map((item, i) => {
-                  let mark = item ? item.mark : null; 
-                  return <Mark mark={mark} status={statuses[i]} key={i} />
+                  let mark = item ? item.mark : null;
+                  let link =  item ? item.linkPR : null;
+                  let comment =  item ? item.comment : null;
+                  return <Mark mark={mark} status={statuses[i]} key={i} link={link} comment={comment} />
                   // else return <li key={i}></li>
                 })}
               </ul>
