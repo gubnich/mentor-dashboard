@@ -12,7 +12,7 @@ class App extends Component {
     this.state = {
       data: null,
       options: [],
-      currentMentor: '',
+      currentMentor: localStorage.mentorLogin,
     }
   }
   componentDidMount() {
@@ -38,13 +38,25 @@ class App extends Component {
   }
   handleChange(value){
     console.log(value.value);
+    localStorage.setItem('mentorLogin', value.value);
     this.setState({ currentMentor : value.value });
+  }
+  setDefaultMentor() {
+    const option = {
+      value: this.state.currentMentor,
+      label: this.state.currentMentor
+    };
+    return this.state.currentMentor ? option : undefined;
   }
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <Select options={this.state.options} onChange={this.handleChange} />
+          <Select options={this.state.options} 
+                  onChange={this.handleChange}
+                  // placeholder={''}
+                  defaultValue={this.setDefaultMentor()}
+                   />
           <button onClick={this.login}>login</button>
         </header>
         <section className="App-body">
