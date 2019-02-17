@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Select from 'react-select';
 import './App.css';
 import { fb } from './firebase';
-import Tasks from './Tasks';
-import Students from './Students';
+import Tasks from './components/Tasks';
+import Students from './components/Students';
 
 class App extends Component {
   constructor(props) {
