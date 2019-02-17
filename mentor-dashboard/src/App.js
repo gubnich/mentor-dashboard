@@ -2,12 +2,8 @@ import React, { Component } from 'react';
 import Select from 'react-select';
 import './App.css';
 import { fb } from './firebase';
-
-// const options = [
-//   { value: 'chocolate', label: 'Chocolate' },
-//   { value: 'strawberry', label: 'Strawberry' },
-//   { value: 'vanilla', label: 'Vanilla' }
-// ]
+import Tasks from './Tasks';
+import Students from './Students';
 
 class App extends Component {
   constructor(props) {
@@ -48,7 +44,6 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <ChooseMentor data={this.state.options}/> */}
           <Select options={this.state.options} onChange={this.handleChange} />
           <button onClick={this.login}>login</button>
         </header>
@@ -61,49 +56,4 @@ class App extends Component {
   }
 }
 
-// function ChooseMentor(props) {
-//   console.log('props',props);
-//   function handleChange(value){
-//     console.log(value.value);
-//   };
-//   if(props.data) return (
-//     <Select options={props.data} onChange={handleChange} />  
-//   );
-//   else return <input />
-// }
-
-function Tasks(props) {
-  if(props.data) return (
-    <ul className="tasksList">
-      <li className="emptyCell"></li>
-      {props.data.tasks.names.map((item, i) => <li key={i}>{item}</li>)}
-    </ul>
-  );
-  else return <ul></ul>;
-}
-
-function Students(props) {console.log(props);
-  if(props.data && props.mentor) {
-    const students = props.data.mentors[props.mentor].students;
-    
-    return (
-      <ul className="Students-list">
-        { Object.keys(students).map((item, i) => {
-          return (
-            <li className="student" key={i}>
-              <span className="Student-name">{item}</span>
-              <ul>
-                {students[item].score.map((ite, i) => {
-                  if (ite) return <li key={i}>{ ite.mark }</li>
-                  else return <li key={i}></li>
-                })}
-              </ul>
-            </li>
-          )
-        })}
-      </ul>
-    )
-  }
-  else return <ul></ul>;
-}
 export default App;

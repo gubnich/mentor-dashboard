@@ -30,7 +30,7 @@ const mistakes = {
 const loginPattern = /.*rolling-scopes-school\/|.*github\.com\//;
 const replacePattern = /-2018Q3/;
 function getGitHubLogin(gitHubLink) {
-  return gitHubLink.replace(loginPattern,'').replace(replacePattern, '').replace('/', '');
+  return gitHubLink.replace(loginPattern,'').replace(replacePattern, '').replace('/', '').trim();
 }
 
 const school = {
@@ -92,21 +92,12 @@ console.log(mistakes.inPairs.description, mistakes.inPairs.cases);
 
 pairs.forEach(item => {
   if(school.mentors[item[2]]) {
-    school.mentors[item[2]].students[`${item[1]}`] = {score: Array(school.tasks.names.length)};
+    school.mentors[item[2]].students[`${item[1]}`.toLowerCase()] = {score: Array(school.tasks.names.length)};
     // console.log(school.mentors[item[2]].students);
   } else {
     console.log('!!!!!!!!!!!!!!!!!!!',item);
   }
 })
-
-// fs.writeFile('public/pairs.json', JSON.stringify(school, null, ' '), function (err) {
-//   if (err) throw err;
-//   console.log('Saved!');
-// });
-
-// function isMentor(login) {
-//   return 
-// }
 
 scores.forEach((item, i) => {
   // const mentorLogin = getGitHubLogin(item[1]).toLowerCase();
@@ -149,7 +140,6 @@ scores.forEach((item, i) => {
 console.log(mistakes.inScores.description, mistakes.inScores.cases);
 console.log(mistakes.inTasks.description, mistakes.inTasks.cases);
 
-
 fs.writeFile('public/school.json', JSON.stringify(school, null, ' '), function (err) {
   if (err) throw err;
   console.log('Saved!');
@@ -158,8 +148,3 @@ fs.writeFile('public/scores.json', JSON.stringify(scores, null, ' '), function (
   if (err) throw err;
   console.log('Saved!!');
 });
-// console.log(school);
-// console.log(pairs);
-// console.log(mistakes);
-// console.log(school.mentors.maximuk);
-
