@@ -17,7 +17,7 @@ class App extends Component {
   }
   componentDidMount() {
     fetch('./school.json')
-      .then(response => {
+      .then(response => {                
         return response.json()
       })
       .then(data => {

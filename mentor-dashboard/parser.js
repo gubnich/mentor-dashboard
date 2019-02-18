@@ -3,7 +3,7 @@ const xlsx = require('node-xlsx');
 
 function getExcelSheet(excelFile, sheetIndex) {
   let sheet = xlsx.parse(`${__dirname}/${excelFile}`)[sheetIndex];
-  sheet = sheet.data.slice(1).filter(item => item.length)
+  sheet = sheet.data.slice(1).filter(item => item.length);
   return sheet;
 }
 
