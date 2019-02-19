@@ -30,3 +30,17 @@ describe('addLoginToScores', () => {
     })
   });
 });
+
+describe('addLoginToPairs', () => {
+  it("should add mentor's login to mentor-student pairs", () => {
+    parser.inputData.pairs.forEach(row => {
+      if (row[2].length) {
+        parser.inputData.mentors.forEach(item => {
+          if (`${item[0]} ${item[1]}` === row[0]) {
+            expect(row[2]).toEqual(parser.getGitHubLogin(item[4]).toLowerCase());
+          }
+        })
+      }
+    })
+  });
+});
