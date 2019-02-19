@@ -16,3 +16,17 @@ describe('getGitHubLogin', () => {
     })
   });
 });
+
+describe('addLoginToScores', () => {
+  it("should add a mentorLogin to the scores list where the student's gitHub mathes the studentLogin", () => {
+    parser.inputData.scores.forEach(row => {
+      if(row[8].length) {
+        parser.inputData.pairs.forEach(item => {
+          if (parser.getGitHubLogin(row[2]).toLowerCase() === item[1]) {
+            expect(row[8]).toEqual(item[2]);
+          }
+        })
+      } 
+    })
+  });
+});
