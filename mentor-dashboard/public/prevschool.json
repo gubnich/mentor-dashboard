@@ -5,11 +5,12 @@
    "Code Jam \"CoreJS\"",
    "Code Jam \"DOM, DOM Events\"",
    "Markup #1",
-   "RS Activist -",
+   "RS Activist",
    "YouTube",
-   "CodeJam \"Scoreboard\"",
+   "Code Jam \"Scoreboard\"",
    "Game",
-   "Course work"
+   "Course work",
+   "Presentation"
   ],
   "links": [
    "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
@@ -20,7 +21,8 @@
    "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
    "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
    "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
-   null
+   null,
+   "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/presentation.md"
   ],
   "statuses": [
    "Checked",
@@ -31,7 +33,8 @@
    "Checking",
    "Checking",
    "In Progress",
-   "ToDo"
+   "ToDo",
+   "Checking"
   ]
  },
  "mentors": {
@@ -63,14 +66,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/andrei-oksentyk-2018Q3/pull/3",
        "mark": 75
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/andrei-oksentyk-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=MvmpTo9b7-E&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/andrei-oksentyk"
     },
     "wertybsd": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -88,6 +99,7 @@
        "linkPR": "https://github.com/halaveika/rsschool-codejam1-cv/pull/1",
        "mark": 85
       },
+      null,
       null,
       null,
       null,
@@ -117,19 +129,31 @@
        "linkPR": "https://github.com/rolling-scopes-school/liodama-2018Q3/pull/1",
        "mark": 60
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 25,
+       "comment": "отвечает на вопросы в чате"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/liodama-2018Q3/pull/5",
        "mark": 80
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sozonikoleg-2018Q3/pull/4",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=p2jx_Ehpumw&feature=youtu.be",
+       "mark": 110
+      }
      ],
-     "gitHubLink": "https://github.com/liOdama"
+     "gitHubLink": "https://github.com/liodama"
     },
     "alexey-1991": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -160,6 +184,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/fyr-fyrrr"
@@ -186,6 +211,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/redgektor"
@@ -196,6 +222,7 @@
        "linkPR": "https://github.com/alexdejko/rsschool-codejam1-cv/pull/1",
        "mark": 85
       },
+      null,
       null,
       null,
       null,
@@ -230,6 +257,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/AlenaShkr"
@@ -244,8 +272,97 @@
       null,
       null,
       null,
+      null,
       null
      ]
+    },
+    "remziq": {
+     "score": [
+      {
+       "linkPR": "https://github.com/RemZiQ/rsschool-codejam1-cv/pull/1",
+       "mark": 100
+      },
+      {
+       "linkPR": "https://github.com/RemZiQ/rsschool-codejam/pull/1",
+       "mark": 90
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/remziq-2018Q3/pull/2",
+       "mark": 80
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/remziq-2018Q3/pull/1",
+       "mark": 70
+      },
+      null,
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/remziq-2018Q3/pull/3",
+       "mark": 10
+      },
+      null,
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=gB63Pb4pLBE&feature=youtu.be",
+       "mark": 110
+      }
+     ],
+     "gitHubLink": "https://github.com/RemZiQ"
+    },
+    "temons": {
+     "score": [
+      null,
+      {
+       "linkPR": "https://github.com/Temons/rsschool-codejam/pull/1",
+       "mark": 10,
+       "comment": "частично сделал sumOfOther"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     "gitHubLink": "https://github.com/Temons"
+    },
+    "sozonikoleg": {
+     "score": [
+      {
+       "linkPR": "https://github.com/SozonikOleg/rsschool-codejam1-cv/pull/1",
+       "mark": 90
+      },
+      {
+       "linkPR": "https://github.com/SozonikOleg/rsschool-codejam/pull/1",
+       "mark": 70
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sozonikoleg-2018Q3/pull/2",
+       "mark": 30
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sozonikoleg-2018Q3/pull/1",
+       "mark": 80
+      },
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sozonikoleg-2018Q3/pull/3",
+       "mark": 30
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sozonikoleg-2018Q3/pull/5",
+       "mark": 20
+      },
+      null,
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=UAjbfBwSMiw&feature=youtu.be",
+       "mark": 100
+      }
+     ],
+     "gitHubLink": "https://github.com/SozonikOleg"
     }
    }
   },
@@ -270,12 +387,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/uniorunr"
     },
     "alexeydavydov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -303,6 +422,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/MelllivoraCapensis"
@@ -319,6 +439,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/soulshaker-2018Q3/pull/1",
        "mark": 95
       },
+      null,
       null,
       null,
       null,
@@ -344,11 +465,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "bananovblu": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -388,6 +511,11 @@
        "mark": 70,
        "comment": "done"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/bmvmarc-2018Q3/pull/4",
+       "mark": 85,
+       "comment": "well done"
+      },
       null,
       null,
       null
@@ -404,11 +532,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "deepenguin": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -450,7 +580,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/jamadamur-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/jamadamur"
     },
@@ -464,11 +598,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "alehdzmitrenka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -506,9 +642,43 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dzhudzhi-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/dzhudzhi"
+    },
+    "nataliasirotko": {
+     "score": [
+      {
+       "linkPR": "https://github.com/NataliaSirotko/rsschool-codejam1-cv/pull/1",
+       "mark": 80
+      },
+      {
+       "linkPR": "https://github.com/NataliaSirotko/rsschool-codejam/pull/1",
+       "mark": 25
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nataliasirotko-2018Q3/pull/2",
+       "mark": 80
+      },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nataliasirotko-2018Q3/pull/1",
+       "mark": 70
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nataliasirotko-2018Q3/pull/4",
+       "mark": 120
+      }
+     ],
+     "gitHubLink": "https://github.com/NataliaSirotko"
     }
    }
   },
@@ -543,6 +713,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kira2023"
@@ -573,12 +744,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/vvsvintsitsky"
     },
     "molestador": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -610,6 +783,7 @@
        "mark": 60,
        "comment": "Оценка снижена за оформление кода, а также невыполнение некоторых пунктов задания"
       },
+      null,
       null,
       null,
       null,
@@ -649,6 +823,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/803142"
@@ -680,12 +855,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/0riac"
     },
     "terstuyahmaksim": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -722,14 +899,24 @@
        "mark": 70,
        "comment": "Немного пропущен дедлайн, нет тестов и анимаций. Код с использованием фич es."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nickitasolovei-2018Q3/pull/4",
+       "mark": 65,
+       "comment": "Нет line chart и сравнения с прошлым годом. Остальной функционал реализован без замечаний."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nickitasolovei-2018Q3/pull/5",
+       "mark": 90,
+       "comment": "Нет транскрипта, не было предварительного прогона."
+      }
      ],
      "gitHubLink": "https://github.com/NickitaSolovei"
     },
     "saint-artiom": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -771,6 +958,10 @@
        "linkPR": "https://github.com/rolling-scopes-school/olgaluk-2018Q3/pull/3",
        "mark": 115
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/olgaluk-2018Q3/pull/4",
+       "mark": 95
+      },
       null,
       null,
       null
@@ -779,6 +970,7 @@
     },
     "groamed": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -800,11 +992,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "rbarakhvostov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -849,12 +1043,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/andreiyasinski"
     },
     "duza": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -896,12 +1092,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://anton23kirienko.github.io/projects/presentation",
+       "mark": 120,
+       "comment": "Тема презентации раскрыта. Монотонно немного, но все требования выполнены. Хорошая работа. "
+      }
      ],
      "gitHubLink": "https://github.com/anton23kirienko"
     },
     "gandigap": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -930,11 +1132,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yakgjen": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -956,11 +1160,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "sffirm": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -982,6 +1188,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -995,11 +1202,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "loori-r": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1041,9 +1250,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/kvinto1986-2018Q3/pull/4",
        "mark": 115
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kvinto1986-2018Q3/pull/5",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/Kvinto1986/ES6-Presentation/tree/gh-pages",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/kvinto1986-2018Q3"
     },
@@ -1070,14 +1286,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/maksimaliakhnovich-2018Q3/pull/3",
        "mark": 85
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/maksimaliakhnovich-2018Q3/pull/4",
+       "mark": 55
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=xTWdl8jWkFY",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/maksimaliakhnovich-2018Q3"
     },
     "superorange": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1114,6 +1338,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Yauheni23"
@@ -1143,6 +1368,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Frol8612"
@@ -1165,12 +1391,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Snowwe"
     },
     "dongor7": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1192,11 +1420,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "innazl": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1225,11 +1455,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "shest28": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1264,6 +1496,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/torchik-slava"
@@ -1286,6 +1519,11 @@
        "linkPR": "https://github.com/rolling-scopes-school/antihero-2018Q3/pull/1",
        "mark": 83
       },
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 25,
+       "comment": "активничал во время код джема по сокетам, задавал вопросы по презентации"
+      },
       null,
       null,
       null,
@@ -1296,6 +1534,7 @@
     },
     "karpiyeniamv": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1329,6 +1568,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kirillzavorotni"
@@ -1351,6 +1591,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/makar1227-2018Q3/pull/1",
        "mark": 78
       },
+      null,
       null,
       null,
       null,
@@ -1378,6 +1619,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Mudreuski"
@@ -1388,6 +1630,7 @@
        "linkPR": "https://github.com/artkon/rsschool-codejam1-cv/pull/1",
        "mark": 98
       },
+      null,
       null,
       null,
       null,
@@ -1408,6 +1651,7 @@
    "students": {
     "felalag": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1449,12 +1693,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/xixex"
     },
     "bumble-bee83": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1487,14 +1733,26 @@
        "mark": 100,
        "comment": "Отличная работа"
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 75,
+       "comment": "много помогает - отвечает на вопросы, записал видео для помощи студентам\n\nХочу поблагодарить @Dzmitry Tsebruk (@mikhama)  за отличное видео по ChartJs,  в котором он доходчиво показал что необходимо для начала использования библиотеки и показал отличный пример использования."
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/mikhama-2018Q3/pull/3",
        "mark": 130
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mikhama-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mikhama-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "Единственный момент - это улучшить свой английский. В остальном все хорошо."
+      }
      ],
      "gitHubLink": "https://github.com/mikhama"
     },
@@ -1520,12 +1778,18 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/angryivan-2018Q3/pulls",
+       "mark": 110,
+       "comment": "Плохо видны слайды. "
+      }
      ],
-     "gitHubLink": "https://github.com/AngryIvan"
+     "gitHubLink": "https://github.com/angryivan"
     },
     "alexandr-savkov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1539,6 +1803,7 @@
     },
     "dimalinnik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1581,14 +1846,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/kozyritskiy-2018Q3/pull/7",
        "mark": 65
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kozyritskiy-2018Q3/pull/8",
+       "mark": 5
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/kozyritskiy/presentation",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/kozyritskiy"
     },
     "artyom123": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1610,11 +1883,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "elenakhamitsevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1649,9 +1924,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/nastyalo-2018Q3/pull/3",
        "mark": 50
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nastyalo-2018Q3/pull/4",
+       "mark": 75
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nastyalo-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/nastyalo"
     },
@@ -1665,11 +1947,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "spinagrblzzz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1718,9 +2002,13 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=giS8ZwTBs90&feature=youtu.be",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/andddrews"
+     "gitHubLink": "https://github.com/Andddrews"
     },
     "bref987": {
      "score": [
@@ -1739,6 +2027,7 @@
        "mark": 72,
        "comment": "Все реализовано, кроме управления с клавиатуры. Есть замечания по коду - Eslint и W3C валидатор выдал ошибки."
       },
+      null,
       null,
       null,
       null,
@@ -1770,15 +2059,28 @@
        "mark": 80,
        "comment": "Все критерии выполнены, но контент не респонсив. Также есть небольшие недочеты по верстке. Но в целом работа достойная. Хорошее понимание семантики."
       },
-      null,
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/padawans",
+       "mark": 25,
+       "comment": "помогает ориентироваться по ссылкам, отвечает на вопросы активно"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/sergey496-2018Q3/pull/3",
        "mark": 120,
        "comment": "Все требования выполнены. Несколько тестов есть, но мог бы написать больше. Приложение работает как надо, при ресайзе тоже все хорошо."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sergey496-2018Q3/pull/4",
+       "mark": 128,
+       "comment": "Все сделано правильно. Снизил пару баллов за мелкие недочеты"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=-MHRTcVrVTA",
+       "mark": 110,
+       "comment": "Презентация сделана на reveal, выступление на английском. Транскрипт есть. Но речь местами тихая и непонятная."
+      }
      ],
      "gitHubLink": "https://github.com/sergey496"
     },
@@ -1792,11 +2094,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "ilyaryabchinski": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1825,11 +2129,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "shakhnovapolina": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1866,7 +2172,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=ZGNMeutOQGo",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/Yana-Bashtyk"
     },
@@ -1892,7 +2202,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=4ay28SZowaI&feature=youtu.be",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/OlgaNaranovich"
     }
@@ -1905,6 +2219,7 @@
    "students": {
     "kasiama": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1926,11 +2241,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "iryna-markovich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1952,11 +2269,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "argaitt": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -1986,12 +2305,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DanteBoom"
     },
     "passhub": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2031,9 +2352,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/mrdreaml-2018Q3/pull/4",
        "mark": 85
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mrdreaml-2018Q3/pull/5",
+       "mark": 30
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mrdreaml-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/mrDreaml"
     },
@@ -2057,7 +2385,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tsypolina-2018Q3/pull/3",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/TsyPolina"
     },
@@ -2080,6 +2412,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/evgeniy121-2018Q3/pull/1",
        "mark": 75
       },
+      null,
       null,
       null,
       null,
@@ -2111,9 +2444,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/jadgptw-2018Q3/pull/3",
        "mark": 135
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/jadgptw-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/jadgptw-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Jadgptw"
     }
@@ -2126,6 +2466,7 @@
    "students": {
     "toxandreev": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2147,11 +2488,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "martikoscoder": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2184,6 +2527,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/mayinmarch"
@@ -2205,6 +2549,7 @@
        "mark": 75,
        "comment": "Non responsive"
       },
+      null,
       null,
       null,
       null,
@@ -2250,7 +2595,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/shanhinpavel-2018Q3/pull/4",
+       "mark": 120,
+       "comment": "постарался сделать все правильно и хорошо"
+      }
      ],
      "gitHubLink": "https://github.com/ShanhinPavel"
     },
@@ -2281,9 +2631,17 @@
        "mark": 55,
        "comment": "не реализованы модули, не реализована анимация, есть трудности с пониманием eslint & webpack, но структура кода и подход к реализации задач не плохой"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/igor82bv-2018Q3/pull/4",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=qhHSfJOG5sM&feature=youtu.be",
+       "mark": 120,
+       "comment": "подошел к выполнению таски основательно"
+      }
      ],
      "gitHubLink": "https://github.com/igor82bv"
     },
@@ -2297,11 +2655,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "uladzimir-yeudakimovich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2342,6 +2702,10 @@
        "linkPR": "https://github.com/rolling-scopes-school/metre-ray-2018Q3/pull/3",
        "mark": 125
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/metre-ray-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
       null
@@ -2350,6 +2714,7 @@
     },
     "napro23": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2371,6 +2736,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -2384,11 +2750,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "zhekix": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2417,6 +2785,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -2430,11 +2799,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "ekoniuh": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2464,6 +2835,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/evpodrezenko"
@@ -2479,6 +2851,7 @@
        "mark": 80,
        "comment": "Для третьего задания не была использована рекурсия.\nEslint хоть и подключен, но настроен так, что упало 4 ошибки.\nСдано после 28.10 01:00"
       },
+      null,
       null,
       null,
       null,
@@ -2506,6 +2879,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/annchapon"
@@ -2519,6 +2893,7 @@
    "students": {
     "thesheepman": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2544,12 +2919,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/brokorenko"
     },
     "vovakor1": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2580,9 +2957,14 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/Hentmire/Presentation",
+       "mark": 120,
+       "comment": "Очень хорошо раскрыла тему! Хорошо подобран материал и примеры. Можно даже для лекций следующих использовать"
+      }
      ],
-     "gitHubLink": "https://github.com/Hentmire"
+     "gitHubLink": "https://github.com/hentmire"
     },
     "rubahaguy": {
      "score": [
@@ -2604,12 +2986,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rubahaguy"
     },
     "egorbudnik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2649,6 +3033,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kaleniksasha"
@@ -2679,12 +3064,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/ue4prog"
     },
     "sk1ngr0s": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2715,8 +3102,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/alexshumansky-2018Q3/pull/2",
        "mark": 90
       },
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 25,
+       "comment": "alexey shumansky(@alexshumansky) помог в code-jam-scoreboard + в целом помогает )"
+      },
       null,
-      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/alexshumansky-2018Q3/pull/5",
+       "mark": 100
+      },
       null,
       null,
       null
@@ -2725,6 +3120,7 @@
     },
     "margoshulpina": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2761,14 +3157,25 @@
        "linkPR": "https://github.com/rolling-scopes-school/aleksei-bulgak-study-2018Q3/pull/1",
        "mark": 52
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 50,
+       "comment": "Хочу поблагодарить Aleksei (@aleksei-bulgak-study) так как он регулярно помогает ребятам когда они что-то не так   сделали с гитом \n+ еще было много благодарностей )"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/aleksei-bulgak-study-2018Q3/pull/4",
        "mark": 140
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aleksei-bulgak-study-2018Q3/pull/5",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=xZNo9hEQfm4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/aleksei-bulgak-study"
     },
@@ -2782,11 +3189,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "lazovskyigor": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2821,9 +3230,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/dyatelvudu-2018Q3/pull/3",
        "mark": 75
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dyatelvudu-2018Q3/pull/4",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/DyatelVudu/Agile",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/dyatelvudu"
     }
@@ -2844,11 +3260,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "tamefreak": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2874,12 +3292,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Shutya"
     },
     "dgekaa": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2901,11 +3321,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "19alexandr90": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -2946,6 +3368,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/nightman20104"
@@ -2977,9 +3400,17 @@
        "mark": 60,
        "comment": "неполный функционал, нет тестов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/irin-ka-2018Q3/pull/4",
+       "mark": 70,
+       "comment": "В целом сырая работа, по всем пунктам были замечания"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/irin-ka-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Irin-ka"
     },
@@ -3000,19 +3431,29 @@
        "linkPR": "https://github.com/rolling-scopes-school/daniil-loban-2018Q3/pull/3",
        "mark": 83
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 100,
+       "comment": "спасибо за организацию групп и бесчисленные советы по таскам, всего не счесть. Объясняет лучше всех, материалы и ссылки всегда нужные."
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/daniil-loban-2018Q3/pull/4",
        "mark": 112
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/daniil-loban-2018Q3/pull/5",
+       "mark": 110,
+       "comment": "-10 за сдачу на 2 дня позже дедлайна"
+      }
      ],
      "gitHubLink": "https://github.com/daniil-loban"
     },
     "misharsweb": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3052,6 +3493,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/heaveek"
@@ -3083,14 +3525,23 @@
        "mark": 35,
        "comment": "confused in some code details, including webpack config and its usage, eslint configuration and usage, editorconfig and gitignore files, package.json configuration..\nCode is not split in a good way, functions are big and hardly maintainble. Mixed ES5 and ES6 code writing. The main gap is code duplicating, full lack of using component pattern as well. Adding huge amount of event listeners. lack of understanding 'event delegation' and many other style guide rules and common js patterns.."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/olegsabodash-2018Q3/pull/4",
+       "mark": 75,
+       "comment": "Не использовал event delegation, css в js, семантика хромает, страница выглядит просто ужасно(("
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/olegsabodash-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/olegsabodash"
     },
     "andriva": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3120,12 +3571,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Meearlyam"
     },
     "veronikavasilchikova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3162,7 +3615,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/eughene-cherepov-2018Q3",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/eughene-cherepov"
     },
@@ -3184,7 +3641,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/moraviin-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Moraviin"
     },
@@ -3206,12 +3667,17 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/petriken-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/petriken"
     },
     "luzko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3241,7 +3707,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/finnibyh-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/FinniByh"
     },
@@ -3255,11 +3725,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "tonykosmos": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3300,12 +3772,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Metalhammer4"
     },
     "rudlevsky": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3339,6 +3813,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Ostik266"
@@ -3362,12 +3837,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/katekosushkina"
     },
     "viki-klipp": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3389,11 +3866,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "northingvar": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3414,6 +3893,7 @@
    "students": {
     "prudnikov888": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3445,6 +3925,10 @@
        "mark": 27,
        "comment": "Хорошо, но опоздал больше, чем на неделю"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sergeyskakun-2018Q3/pull/3",
+       "mark": 38
+      },
       null,
       null,
       null
@@ -3453,6 +3937,7 @@
     },
     "petersonby": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3483,14 +3968,22 @@
        "mark": 18,
        "comment": "Старался. Не понимал как подступиться к задачам. Пара дополнительных лекций решила проблему, вроде как"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aliaksandrposakh-2018Q3/pull/5",
+       "mark": 5
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=tw8HOHJnEhk&feature=youtu.be",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/AliaksandrPosakh"
     },
     "formalinfigs": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3537,9 +4030,18 @@
        "mark": 65,
        "comment": "Приложение работает, главная цель достигнута, балы отняты за отсутствие листания свайпом, нет тестов, неточности по коду. Хотя в общем прогресс виден, студент старается."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/f8b23lef-2018Q3/pull/4",
+       "mark": 100,
+       "comment": "Практически все выполнено, несколько небольших замечаний по коду,  задание на +30 доп. баллов не успела сделать. "
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/f8B23Lef/presentation/pull/1",
+       "mark": 120,
+       "comment": "Презентация сдана в срок, на предварительном показе присутствовала,  английский уверенный А2+/B1. Молодец!"
+      }
      ],
      "gitHubLink": "https://github.com/f8b23lef"
     },
@@ -3557,12 +4059,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/yrapank"
     },
     "jenia-shibkova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3584,6 +4088,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -3597,11 +4102,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "juliazakharik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3630,11 +4137,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "veterkam": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3658,6 +4167,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/yurychajkou-2018Q3/pull/1",
        "mark": 18
       },
+      null,
       null,
       null,
       null,
@@ -3691,7 +4201,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/Catrieona-2018Q3/pull/5",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/Catrieona"
     },
@@ -3710,6 +4224,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/ankorbay-2018Q3/pull/1",
        "mark": 45
       },
+      null,
       null,
       null,
       null,
@@ -3750,7 +4265,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nastya-ropot-2018Q3/pull/4",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/nastya-ropot"
     },
@@ -3777,9 +4296,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/mozgoen-2018Q3/pull/3",
        "mark": 97
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mozgoen-2018Q3/pull/5",
+       "mark": 123
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mozgoen-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/mozgoen"
     },
@@ -3807,14 +4333,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/hellsingi-2018Q3/pull/3",
        "mark": 90
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/hellsingi-2018Q3/pull/4",
+       "mark": 63
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/hellsingi-2018Q3/pull/5",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/hellsingi"
     },
     "yeilya": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3849,6 +4383,10 @@
        "linkPR": "https://github.com/rolling-scopes-school/polotenchik-2018Q3/pull/3",
        "mark": 83
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/polotenchik-2018Q3/pull/4",
+       "mark": 95
+      },
       null,
       null,
       null
@@ -3857,6 +4395,7 @@
     },
     "tshkursk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3877,6 +4416,7 @@
    "students": {
     "olegkizz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3906,6 +4446,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/LazouskiKiryl"
@@ -3927,6 +4468,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/dimabog22-2018Q3/pull/1",
        "mark": 55
       },
+      null,
       null,
       null,
       null,
@@ -3965,12 +4507,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/bigshaqmnh-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/bigshaqmnh"
     },
     "antonnaumchik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -3991,6 +4538,7 @@
    "students": {
     "kirillstarlight": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4020,6 +4568,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/waldemar999"
@@ -4034,11 +4583,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "igarok91": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4068,7 +4619,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=oV1vlQZzK-I&feature=youtu.be",
+       "mark": 110,
+       "comment": "Good presentation"
+      }
      ],
      "gitHubLink": "https://github.com/aliakseibabko"
     },
@@ -4100,14 +4656,24 @@
        "mark": 100,
        "comment": "Исправил недочеты"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gleb7raul-2018Q3/pull/4",
+       "mark": 85,
+       "comment": "Хорошая работа"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=5HYYMUi51RU&feature=youtu.be",
+       "mark": 120,
+       "comment": "Good job"
+      }
      ],
      "gitHubLink": "https://github.com/gleb7raul"
     },
     "zhekaprb": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4128,6 +4694,7 @@
    "students": {
     "dmlaziuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4161,6 +4728,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Vladqqqqoo"
@@ -4175,11 +4743,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "wushukms": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4223,9 +4793,17 @@
        "mark": 110,
        "comment": "Good work"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aborisenok-2018Q3/pull/4",
+       "mark": 128
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=JtmBcQy9oBI&t=442s",
+       "mark": 120,
+       "comment": "Excellent presentation"
+      }
      ],
      "gitHubLink": "https://github.com/aborisenok"
     },
@@ -4253,9 +4831,17 @@
        "linkPR": "https://github.com/rolling-scopes-school/valiantsinlopan-2018Q3/pull/3",
        "mark": 80
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/valiantsinlopan-2018Q3/pull/4",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=V2BBKZ81OZE",
+       "mark": 100,
+       "comment": "Не было времени у студента на прогон (он работает)"
+      }
      ],
      "gitHubLink": "https://github.com/ValiantsinLopan"
     },
@@ -4285,6 +4871,11 @@
        "mark": 20,
        "comment": "70% требований к заданию проигнорированы, не успел в дедлайн, с трудом получила линку на гитхаб пейджес"
       },
+      {
+       "linkPR": "https://github.com/egorMiwa1",
+       "mark": 0,
+       "comment": "не сделал"
+      },
       null,
       null,
       null
@@ -4293,6 +4884,7 @@
     },
     "foxygirl44": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4313,6 +4905,7 @@
    "students": {
     "smajlichak": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4347,14 +4940,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/zm1try-2018Q3/pull/3",
        "mark": 125
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/zm1try-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/zm1try-2018Q3/pull/5",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/zm1try"
     },
     "jstrr": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4391,12 +4992,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kirill82-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/kirill82"
     },
     "blackcat1397": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4445,7 +5051,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/PavalEscoba/presentation-Q3-2018",
+       "mark": 120,
+       "comment": "Презентация сделано хорошо, замечания от прогона учтены"
+      }
      ],
      "gitHubLink": "https://github.com/PavalEscoba"
     },
@@ -4459,11 +5070,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "michaeldaineka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4500,7 +5113,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/Lesechka-2018Q3/pull/6",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/Lesechka"
     },
@@ -4528,9 +5145,18 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vasiliyrepin-2018Q3/pull/3",
+       "mark": 60,
+       "comment": "сделано немного, но зато с большим упорством )"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/VasiliyRepin/rsschool-codejam1-cv/pull/1",
+       "mark": 120,
+       "comment": "Требования выполнены, речь беглая, человек реально старался и сделал намного лучше по сравнению с первой версией на прогоне."
+      }
      ],
      "gitHubLink": "https://github.com/VasiliyRepin"
     },
@@ -4562,14 +5188,24 @@
        "mark": 118,
        "comment": "Работа сделано просто и аккуратно."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mike80by-2018Q3/pull/5",
+       "mark": 98,
+       "comment": "Сделано почти идеально )"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mike80by-2018Q3/pull/4",
+       "mark": 120,
+       "comment": "Презентация сделано качественно, замечания при прогоне учтены, тема раскрыта интересно )"
+      }
      ],
      "gitHubLink": "https://github.com/Mike80by"
     },
     "sergeyshestak": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4608,9 +5244,16 @@
        "mark": 110,
        "comment": "всё ок, только нету тестов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/victorbelikov-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/victorbelikov-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/VictorBelikov"
     },
@@ -4636,15 +5279,27 @@
        "mark": 100,
        "comment": "Студент справился, исправил ошибки, всё хорошо"
       },
-      null,
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 50,
+       "comment": "@Kanstancin (@auseika)  Хочу поблагодарить этого человека за неоднократную помощь, а именно: с WebSockets Challenge и GitHUB. Никак не мог подключится к сокету - ошибка CONN REFUSED, т к не знал, что надо было со странички 2123.io, и пытался и с jsfiddle с консолью законнектиться - не выходило, он доходчиво объяснил, что со странички надо было. + В начале второго этапа не пожалел 30 минут общения по Hangouts и доходчиво объяснил как \"удалить\" с GitHub, что отняло у меня много времени в поисках ответа. Кому тоже помог - не стесняемся , ставим +"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/auseika-2018Q3/pull/5",
        "mark": 120,
        "comment": "очень хорошо и структурировано сделано задание, тестов мало - поэтому оценка не максимальная"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/auseika-2018Q3/pull/6",
+       "mark": 85
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/auseika-2018Q3/pull/7",
+       "mark": 115,
+       "comment": "Слайды на видео слабо видны."
+      }
      ],
      "gitHubLink": "https://github.com/auseika"
     },
@@ -4670,6 +5325,7 @@
        "mark": 100,
        "comment": "Сделано по тех заданию"
       },
+      null,
       null,
       null,
       null,
@@ -4711,6 +5367,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/eveshad"
@@ -4743,14 +5400,24 @@
        "mark": 95,
        "comment": "Неплохая работа. Есть косяки с пагинацией, и не весь html генерится из кода. Код написан в целом достаточно чисто и неплохо, жаль не использовал ООП."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mbulldozer-2018Q3/pull/4",
+       "mark": 95,
+       "comment": "Более-менее справился. Я снял 5 баллов за плоховатый код-стайл. Студент повырубал многовато правил eslint там где можно было довольно просто написать нормально."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mbulldozer-2018Q3/pull/5",
+       "mark": 100,
+       "comment": "Требования выполнил, тестового прогона не было, увы. Презентация вышла суховатая, в первую очередь из-за слабого английского, наверное."
+      }
      ],
      "gitHubLink": "https://github.com/mbulldozer"
     },
     "starkary": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4792,12 +5459,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/olgalazarevich"
     },
     "holeil": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4826,6 +5495,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -4839,11 +5509,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "do100han": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4871,6 +5543,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Zhecha"
@@ -4885,11 +5558,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "mill9r": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4918,11 +5593,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "mixniuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -4964,12 +5641,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=4taQPuSKwqg&feature=youtu.be",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/Xseniia"
     },
     "nataligleb": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5009,9 +5691,16 @@
        "mark": 30,
        "comment": "сырой проект, нету тестов, косяки в адаптивности, плохо работают элементы управления, плохо описан пулл реквестб недостаточно порядка и ошибки линта  в репозитории, не все функциональные требования выполнены"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/valeriyager-2018Q3/pull/3",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/valeriyager-2018Q3/pull/4",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/ValeriyaGer"
     }
@@ -5032,11 +5721,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "sergeybandar": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5067,6 +5758,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/AlexanderKononok"
@@ -5083,6 +5775,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/mrmars20-2018Q3/pull/1",
        "mark": 75
       },
+      null,
       null,
       null,
       null,
@@ -5108,6 +5801,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -5121,6 +5815,7 @@
        "mark": 99,
        "comment": "Сделано на очень высоком уровне, однако пункт ТЗ не выполнен"
       },
+      null,
       null,
       null,
       null,
@@ -5143,12 +5838,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/cropotan"
     },
     "vitalydmitriev": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5174,12 +5871,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/PhilipSh"
     },
     "vero-nika": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5205,6 +5904,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/VladSemenik"
@@ -5226,6 +5926,7 @@
        "linkPR": "https://github.com/meller96/rsschool-codejam/pull/1",
        "mark": 30
       },
+      null,
       null,
       null,
       null,
@@ -5261,7 +5962,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=d9ZenkWnB6o",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/ogurez"
     },
@@ -5288,14 +5993,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/mrlapka-2018Q3/pull/3",
        "mark": 50
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mrlapka-2018Q3/pull/4",
+       "mark": 25
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=Y0uK_CoH4DY&feature=youtu.be",
+       "mark": 110
+      }
      ],
-     "gitHubLink": "https://github.com/MrLaPka"
+     "gitHubLink": "https://github.com/mrlapka"
     },
     "olexxxey": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5309,6 +6022,7 @@
     },
     "xelson": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5338,19 +6052,31 @@
        "linkPR": "https://github.com/rolling-scopes-school/amoebiusss-2018Q3/pull/1",
        "mark": 95
       },
-      null,
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 25,
+       "comment": "Активности в телеграмм канале"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/amoebiusss-2018Q3/pull/3",
        "mark": 140
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/amoebiusss-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=n5B1bE3oHyA&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/amoebiusss"
     },
     "megustafather": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5379,6 +6105,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -5392,11 +6119,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "sergmi": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5426,6 +6155,7 @@
        "mark": 80,
        "comment": "Стоит импрувнуть знания в сфере респонсив-верстки."
       },
+      null,
       null,
       null,
       null,
@@ -5462,9 +6192,17 @@
        "mark": 90,
        "comment": "свайп глючноват если мазать мимо карточки, вебпак из коробки, нет тестов. index.js можно было бы разбить на модули"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/pulya10c-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=JHh0Y7LHfwI&feature=youtu.be",
+       "mark": 110,
+       "comment": "improve English"
+      }
      ],
      "gitHubLink": "https://github.com/Pulya10c"
     }
@@ -5505,12 +6243,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/prometei299-2018Q3/pull/5/files",
+       "mark": 120,
+       "comment": "Good work!"
+      }
      ],
      "gitHubLink": "https://github.com/prometei299"
     },
     "sergeypunko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5546,6 +6290,11 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/zurzur-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "Good work!"
+      },
       null,
       null,
       null
@@ -5554,6 +6303,7 @@
     },
     "edaineko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5575,6 +6325,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     }
@@ -5587,6 +6338,7 @@
    "students": {
     "sches": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5616,16 +6368,27 @@
        "linkPR": "https://github.com/rolling-scopes-school/simaxa7-2018Q3/pull/1",
        "mark": 100
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 25,
+       "comment": "очень помог с настройкой webpack для задания по youtube @Simaxa7"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/simaxa7-2018Q3/pull/3",
        "mark": 115
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/simaxa7-2018Q3/pull/4",
+       "mark": 69
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/simaxa7-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/simaxa7"
+     "gitHubLink": "https://github.com/Simaxa7"
     },
     "polinamoiseyenko": {
      "score": [
@@ -5650,14 +6413,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/polinamoiseyenko-2018Q3/pull/4",
        "mark": 86
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/polinamoiseyenko-2018Q3/pull/5",
+       "mark": 86
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/polinamoiseyenko-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/polinamoiseyenko"
     },
     "sashakaralchuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5695,6 +6466,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/hecateenitharmon"
@@ -5724,12 +6496,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mdgh-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/mdgh"
     },
     "mggeroff": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5756,6 +6533,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/soulos410-2018Q3/pull/1",
        "mark": 70
       },
+      null,
       null,
       null,
       null,
@@ -5788,9 +6566,17 @@
        "mark": 120,
        "comment": "отличная работа, но немного не соответствует требованиям"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/boshka0-2018Q3/pull/4",
+       "mark": 100,
+       "comment": "ошибся с таском в предыдущем ответе"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=l3ANd2uyhBQ",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/boshka0"
     }
@@ -5811,11 +6597,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "mxwoodie": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5853,12 +6641,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/psevkin"
     },
     "alexeevadaria": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5899,7 +6689,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/spiritforest-2018Q3/pull/5",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/SpiritForest"
     },
@@ -5929,12 +6723,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/chekni"
     },
     "shymaxer": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -5961,6 +6757,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/sad4itananda-2018Q3/pull/1",
        "mark": 90
       },
+      null,
       null,
       null,
       null,
@@ -5993,14 +6790,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/kalitamih-2018Q3/pull/5",
        "mark": 60
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kalitamih-2018Q3/pull/6",
+       "mark": 125
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kalitamih-2018Q3/pull/7#pullrequestreview-187951565",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/kalitamih"
     },
     "evgenprushk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6030,19 +6835,31 @@
        "linkPR": "https://github.com/rolling-scopes-school/mrstalon-2018Q3/pull/3",
        "mark": 100
       },
-      null,
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 25,
+       "comment": "\"очень помог в последнем code jam с последним заданием про массивы \nОчень благодарен и признателен.\nБольше таких людей которые помогают в нужный момент)\""
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/mrstalon-2018Q3/pull/5",
        "mark": 110
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mrstalon-2018Q3/pull/6#pullrequestreview-184181318",
+       "mark": 95
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mrstalon-2018Q3/pull/7",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/mrstalon"
     },
     "avaprin": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6077,14 +6894,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/haspadarz-padmensku-2018Q3/pull/5",
        "mark": 110
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/haspadarz-padmensku-2018Q3/pull/6",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/haspadarz-padmensku-2018Q3/pull/7#pullrequestreview-187951346",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/haspadarZ-padMensku"
     },
     "svoboda-rabstvo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6125,6 +6950,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Yaroslav-Mig"
@@ -6157,9 +6983,17 @@
        "mark": 135,
        "comment": "Удивляет, что человек задумался написать тесты! Правда есть кое-какие мелочи по CSS, но здесь главная оценка - это JS и логику приложения."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/novikovantony-2018Q3/pull/4",
+       "mark": 65,
+       "comment": "В связи с высокой температурой студент не выполнил таск до конца."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/novikovantony-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/NovikovAntonY"
     },
@@ -6189,12 +7023,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/MayBlackwood"
     },
     "anastminsk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6216,11 +7052,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "40grivenprog": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6242,11 +7080,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nataliamotuz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6267,6 +7107,7 @@
    "students": {
     "eugene3112": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6301,12 +7142,18 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=XgsZFN-QeBs&feature=youtu.be",
+       "mark": 110,
+       "comment": "Нет транскрипта, был прогон"
+      }
      ],
      "gitHubLink": "https://github.com/heat98"
     },
     "tanyamatesha": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6338,7 +7185,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=eFGFp4qK7wo",
+       "mark": 110,
+       "comment": "Нет транскрипта, был прогон"
+      }
      ],
      "gitHubLink": "https://github.com/EgorGorbik"
     },
@@ -6370,7 +7222,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=7_kpmpmeQ9k",
+       "mark": 120,
+       "comment": "Все условия выполнены, прогон был"
+      }
      ],
      "gitHubLink": "https://github.com/vicrodzko"
     },
@@ -6396,9 +7253,14 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=GtRdGLjSR1o",
+       "mark": 110,
+       "comment": "Нет транскрипта, есть презентация, видео на youtube, прогон был"
+      }
      ],
-     "gitHubLink": "https://github.com/IlyaTrat"
+     "gitHubLink": "https://github.com/ilyatrat"
     },
     "unbelievablysmart": {
      "score": [
@@ -6422,12 +7284,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/UnbelievablySmart"
     },
     "viktoryia-hrechykha": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6448,6 +7312,7 @@
    "students": {
     "ivanmatsur": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6482,14 +7347,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/usermeme-2018Q3/pull/3",
        "mark": 63
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/usermeme-2018Q3/pull/4",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://youtu.be/SFVF8TuCPzM",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/usermeme"
     },
     "virusss": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6526,7 +7399,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=II8M_ZOuLrU",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/nikaz123"
     }
@@ -6539,6 +7416,7 @@
    "students": {
     "kvatoferma": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6560,6 +7438,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -6573,11 +7452,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "jacksonbr87": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6606,11 +7487,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "lavazzakate": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6647,14 +7530,22 @@
        "mark": 90,
        "comment": "-30 за опоздание"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/2kevink-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/2kevink-2018Q3/pull/5",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/2kevink"
     },
     "vladislavrebko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6682,6 +7573,7 @@
        "mark": 65,
        "comment": "zero responsive with overflow-x: hidden"
       },
+      null,
       null,
       null,
       null,
@@ -6721,7 +7613,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://youtu.be/Ta5xhqULrPs",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Anna-Pronovich"
     },
@@ -6735,11 +7631,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nataliakazakevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6775,6 +7673,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/KseniyaSokolovskaya"
@@ -6803,7 +7702,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/zmichgen/presentation/tree/gh-pages",
+       "mark": 80
+      }
      ],
      "gitHubLink": "https://github.com/zmichgen"
     }
@@ -6836,6 +7739,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/sergaunt"
@@ -6863,14 +7767,23 @@
        "linkPR": "https://github.com/rolling-scopes-school/brateckrolikstudent-2018Q3/pull/3",
        "mark": 95
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/brateckrolikstudent-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/brateckrolikstudent-2018Q3/tree/presentation",
+       "mark": 80,
+       "comment": "Не было транскрипта и прогона + опоздание на 3 дня"
+      }
      ],
-     "gitHubLink": "https://github.com/BratecKrolikStudent"
+     "gitHubLink": "https://github.com/rolling-scopes-school/brateckrolikstudent-2018Q3"
     },
     "venomamd": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6892,6 +7805,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     }
@@ -6904,6 +7818,7 @@
    "students": {
     "leshka98": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6940,12 +7855,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/siarheikresik-2018Q3/pull/7",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/siarheikresik"
     },
     "dianakay": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -6967,11 +7887,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "alexkov90": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7005,12 +7927,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/mpot7"
     },
     "charmant": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7050,14 +7974,25 @@
        "linkPR": "https://github.com/rolling-scopes-school/horoshaya-2018Q3/pull/1",
        "mark": 77
       },
-      null,
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 50,
+       "comment": "еще одну неделю помогала студентам\n\n\"помогала с code jam\n\"\"Я в силу непреодолимых причин не смог решить задачу по сокетам вовремя. Когда начал решать, столкнулся с трудностями \"\"перевода\"\". Не смог понят что делать с буфером массивов. Задал вопрос в гиттере. Ответил(а) по существу @Horoshaya . Очень благодарен. Решение простое, но без подсказки, возможно и не решил бы.\"\"\""
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/horoshaya-2018Q3/pull/3",
        "mark": 95
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/horoshaya-2018Q3/pull/4",
+       "mark": 80
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/horoshaya-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/horoshaya-2018Q3"
     },
@@ -7071,11 +8006,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "montik-pc": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7112,6 +8049,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/jeka98-2018Q3"
@@ -7137,13 +8075,25 @@
        "linkPR": "https://github.com/rolling-scopes-school/renardby-2018Q3/pull/2",
        "mark": 72
       },
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 25,
+       "comment": "За активность в телеграмм"
+      },
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/renardby-2018Q3",
+       "mark": 0,
+       "comment": "нет работы"
+      },
       null,
       null,
-      null,
-      null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/renardby-2018Q3/pull/5",
+       "mark": 90
+      }
      ],
-     "gitHubLink": " https://github.com/rolling-scopes-school/renardby-2018Q3"
+     "gitHubLink": "https://github.com/RenardBY"
     },
     "sergeyguchok": {
      "score": [
@@ -7171,11 +8121,19 @@
        "linkPR": "https://github.com/rolling-scopes-school/sergeyguchok-2018Q3/pull/3",
        "mark": 75
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sergeyguchok-2018Q3/pull/5",
+       "mark": 65,
+       "comment": "есть замечания по коду"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sergeyguchok-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/sergeyguchok"
+     "gitHubLink": "https://github.com/rolling-scopes-school/sergeyguchok-2018Q3"
     },
     "aytsan": {
      "score": [
@@ -7198,6 +8156,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/aytsan-2018Q3/pull/3",
        "mark": 82
       },
+      null,
       null,
       null,
       null,
@@ -7239,7 +8198,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/sunrisekovalevski-2018Q3/pull/4",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/SunriseKovalevski"
     },
@@ -7265,6 +8228,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/spacebrains"
@@ -7279,6 +8243,7 @@
        "linkPR": "https://github.com/Pincherinka/rsschool-codejam/pull/1",
        "mark": 50
       },
+      null,
       null,
       null,
       null,
@@ -7312,9 +8277,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/victoriathebrave-2018Q3/pull/3",
        "mark": 125
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/victoriathebrave-2018Q3/pull/4",
+       "mark": 105
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/victoriathebrave-2018Q3/pull/5",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/victoriathebrave"
     }
@@ -7327,6 +8299,7 @@
    "students": {
     "yanachchchka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7348,11 +8321,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "volhashy": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7378,6 +8353,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/crunkagator"
@@ -7394,6 +8370,7 @@
        "mark": 55,
        "comment": "make реализованна неверно, лишняя папка .idea, package.json содержит много лишних зависимостей, отсутвует eslintrc."
       },
+      null,
       null,
       null,
       null,
@@ -7429,12 +8406,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://youtu.be/BH2DIoQcgYU",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/maksimyakush"
     },
     "boobaley": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7471,6 +8453,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/helpthewalrus"
@@ -7498,14 +8481,23 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aliaksandrlosich-2018Q3",
+       "mark": 0,
+       "comment": "нет работы"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aliaksandrlosich-2018Q3/pull/3/files",
+       "mark": 80
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/aliaksandrlosich-2018Q3"
     },
     "dmsolov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7527,6 +8519,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -7540,11 +8533,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "godofnoobs": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7581,6 +8576,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/uivgray-2018Q3"
@@ -7610,12 +8606,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/stas4it"
     },
     "vladislavmakarevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7655,9 +8653,18 @@
        "mark": 110,
        "comment": "все сделано, кроме юнит-тестов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/juliankov-2018Q3/pull/4",
+       "mark": 100,
+       "comment": "все сделано, кроме статистики по прошлому набору "
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/juliankov-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "отличная презентация, все выполнено в соответствии с требованиями"
+      }
      ],
      "gitHubLink": "https://github.com/JulianKov"
     },
@@ -7689,9 +8696,17 @@
        "mark": 130,
        "comment": "все круто, но не использовал промисы и прочие фишки es6"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/niksrakevich-2018Q3/pull/6",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/niksrakevich-2018Q3/pull/7",
+       "mark": 100,
+       "comment": "короче заявленного хронометража"
+      }
      ],
      "gitHubLink": "https://github.com/NiksRakevich"
     }
@@ -7704,6 +8719,7 @@
    "students": {
     "vladyaremeko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7740,6 +8756,11 @@
        "mark": 99,
        "comment": "Хорошо сделано, но пропущен деадлайн"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/ton9q-2018Q3/pull/3",
+       "mark": 95,
+       "comment": "great!"
+      },
       null,
       null,
       null
@@ -7769,6 +8790,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/nktvlkvch"
@@ -7783,11 +8805,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "mazhoranta": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7816,6 +8840,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -7829,11 +8854,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "melk0sha": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7873,14 +8900,24 @@
        "mark": 130,
        "comment": "Все базовые требования выполнены, тесты есть, задание сдано заблаговременно. Нет ES6. Непрозрачная структура проекта, неточные наименования модулей."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tanyasamal-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "требования выполнены"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://youtu.be/SLC4UXNqMTM",
+       "mark": 120,
+       "comment": "требования выполнены"
+      }
      ],
      "gitHubLink": "https://github.com/TanyaSamal"
     },
     "karsash": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7920,9 +8957,17 @@
        "mark": 130,
        "comment": "Clear code, good structure, tests, es6. Missed a deadline within 3 days, I took off 10 points. "
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dimadk24-2018Q3/pull/5",
+       "mark": 120
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://youtu.be/vdADCgoYb34",
+       "mark": 120,
+       "comment": "молодец"
+      }
      ],
      "gitHubLink": "https://github.com/DimaDK24"
     }
@@ -7935,6 +8980,7 @@
    "students": {
     "xlopec23": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7956,11 +9002,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "vlad0mag0": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -7999,6 +9047,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kir-22"
@@ -8014,6 +9063,7 @@
        "mark": 53,
        "comment": "More details in PR"
       },
+      null,
       null,
       null,
       null,
@@ -8048,6 +9098,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/llitrixkod-2018Q3/pull/4",
        "mark": 100
       },
+      null,
       null,
       null,
       null
@@ -8087,14 +9138,23 @@
        "linkPR": "https://github.com/rolling-scopes-school/ilyay95-2018Q3/pull/2",
        "mark": 57
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/ilyay95-2018Q3/tree/code-jam-scoreboard",
+       "mark": 55,
+       "comment": "Pull Request отсутствует, hover работает нестабильно + странные имена селекторов."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/ilyay95/presentation",
+       "mark": 110
+      }
      ],
-     "gitHubLink": "https://github.com/ilyay95"
+     "gitHubLink": "https://github.com/ilyay95-2018Q3"
     },
     "allexblaze": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8126,19 +9186,31 @@
        "mark": 90,
        "comment": "Вёрстка хорошая, но стили и код избыточны и не совсем понятны"
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 25,
+       "comment": "Спасибо SergeyZ(@Dekim12) за подсказку"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/dekim12-2018Q3/pull/3",
        "mark": 100
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dekim12-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://dekim12.github.io/",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/dekim12"
+     "gitHubLink": "https://github.com/dekim12-2018Q3"
     },
     "dimamavrin": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8152,6 +9224,7 @@
     },
     "vitalmizevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8180,6 +9253,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -8193,11 +9267,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "iharpashkevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8234,7 +9310,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/375291601334-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/375291601334"
     }
@@ -8255,11 +9335,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "cirillius": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8289,6 +9371,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/eugenepochenkov"
@@ -8303,11 +9386,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "astravukh": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8333,6 +9418,7 @@
        "mark": 92,
        "comment": "Your score is 92 (- 5 for responive, -2 for class names, -1 not full screen).\nIn common - very good work. There are some defects with class naming and extra classes, also some problems with responsive: if you add some items e.g. in about-us our-team and functions html areas - items will place one by one, but expected behaviour - items jump on next line. Also there were some animations - in my opinion not obvious for users; i would add just some color changes without scaling text; simple and tasteful. Interactions with phone/email links - nice. Using gulp - nice."
       },
+      null,
       null,
       null,
       null,
@@ -8370,7 +9456,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/crypto-kittensseller-2018Q3/pull/4",
+       "mark": 120,
+       "comment": "See comments in the PR."
+      }
      ],
      "gitHubLink": "https://github.com/Crypto-kittensSeller"
     },
@@ -8386,6 +9477,7 @@
        "mark": 0,
        "comment": "Not done."
       },
+      null,
       null,
       null,
       null,
@@ -8418,7 +9510,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/alexeynovomlinets-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "See the comments in the PR."
+      }
      ],
      "gitHubLink": "https://github.com/AlexeyNovomlinets"
     },
@@ -8444,7 +9541,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://antonysawyer.github.io/rss-pres/",
+       "mark": 120,
+       "comment": "\nAll criteria passed."
+      }
      ],
      "gitHubLink": "https://github.com/AntonySawyer"
     }
@@ -8457,6 +9559,7 @@
    "students": {
     "sobolevyuri": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8490,12 +9593,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/credov"
     },
     "clericus": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8533,6 +9638,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/dbaceko"
@@ -8563,6 +9669,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/frontsideman"
@@ -8576,6 +9683,7 @@
    "students": {
     "denhock": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8611,11 +9719,18 @@
        "linkPR": "https://github.com/rolling-scopes-school/kirillgalimov-2018Q3/pull/4/files",
        "mark": 70
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kirillgalimov-2018Q3/pull/5",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kirillgalimov-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/rolling-scopes-school/kirillgalimov-2018Q3/"
+     "gitHubLink": "https://github.com/rolling-scopes-school/kirillgalimov-2018Q3"
     },
     "igor-provotorov": {
      "score": [
@@ -8644,7 +9759,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/igor-provotorov-2018Q3/pull/4",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/igor-provotorov-2018Q3"
     },
@@ -8673,6 +9792,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/kamatozzzik-2018Q3/"
@@ -8694,11 +9814,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "petromath77": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8720,11 +9842,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yanrishbe": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8761,9 +9885,17 @@
        "mark": 80,
        "comment": "Есть некоторые баги в поведении, отсутствуют тесты, недочеты по коду "
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/juliamv-2018Q3/pull/4",
+       "mark": 80,
+       "comment": "Не использовала event delegation, нет сравнения по участникам прошлого набора"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=xW3qx2gf3mE",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/JuliaMV"
     },
@@ -8790,12 +9922,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/icebergnevercries"
     },
     "tamarashautsova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8824,11 +9958,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "serzhanhelena": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8862,6 +9998,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/georgyminsk"
@@ -8878,6 +10015,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/greg1996-2018Q3/pull/1",
        "mark": 80
       },
+      null,
       null,
       null,
       null,
@@ -8908,6 +10046,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/goldenkit"
@@ -8929,6 +10068,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -8942,11 +10082,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nesteklo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -8986,9 +10128,18 @@
        "mark": 110,
        "comment": "Выполнил все условия, кроме юнит тестов. Все в срок. "
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dasnein-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "Сделал все по AC. Lodash не использовал, но это не обязательное условие"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=FFjLQflshkw&feature=youtu.be",
+       "mark": 110,
+       "comment": "Просрочил на 1 день, снял 10 баллов. Все осталное - ок"
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/dasnein-2018Q3"
     }
@@ -9021,12 +10172,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/vireah"
     },
     "yarobei": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9066,6 +10219,11 @@
        "mark": 70,
        "comment": "Слайдер краденный. Попросил реализовать отдельно слайдер, чтобы понять совместную работу css + js"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/alexandrtichon-2018Q3/pull/4",
+       "mark": 60,
+       "comment": "Фидбек от студента, было сложно разбираться с заданием. Не понятное описание задачи про сессии."
+      },
       null,
       null,
       null
@@ -9098,6 +10256,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/yanyan155"
@@ -9110,6 +10269,7 @@
        "mark": 90,
        "comment": "Нет eslint. Отличнные тесты. "
       },
+      null,
       null,
       null,
       null,
@@ -9129,6 +10289,7 @@
    "students": {
     "glebhleb": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9165,12 +10326,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/segrey1989-2018Q3/pull/4",
+       "mark": 95
+      }
      ],
-     "gitHubLink": "https://github.com/segrey1989"
+     "gitHubLink": "https://github.com/Segrey1989"
     },
     "kotukjubotuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9192,6 +10358,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -9205,11 +10372,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "okband": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9250,7 +10419,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=HMJepInP4JA&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/agentumbrella"
     },
@@ -9264,11 +10437,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "anastasiaburlo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9302,12 +10477,17 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=uLazAuQiqPw&feature=youtu.be",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/rolling-scopes-school/devandscorp-2018Q3"
+     "gitHubLink": "https://github.com/devandscorp"
     },
     "qucca": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9338,12 +10518,17 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=0H194f47gCQ&feature=youtu.be",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/lexbogos"
     },
     "zebabrat": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9380,12 +10565,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/dimasquared"
     },
     "smetaninpavel": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9423,6 +10610,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/ol4ash"
@@ -9453,12 +10641,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Kasper1999"
     },
     "ivanmikhailenka1": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9495,6 +10685,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/goner52"
@@ -9525,12 +10716,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/poyuki"
     },
     "elmavis": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9554,6 +10747,7 @@
        "mark": 47,
        "comment": "Снял баллы за одновременное использование var, let, плохой нейминг, реализовал одну задачу только sumOfOther и она не учитывала некоторые кейсы. Отсутствовал esLint и airbnb. Тест был написан с ошибкой"
       },
+      null,
       null,
       null,
       null,
@@ -9594,7 +10788,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=mWS6t0Bso4M&feature=youtu.be",
+       "mark": 90,
+       "comment": "презентация не на reveal, предпрогона не было, ссылка на презентацию https://slides.com/kiryl/deck#/"
+      }
      ],
      "gitHubLink": "https://github.com/kirylalexandrovich"
     },
@@ -9608,11 +10807,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "mg3442": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9655,12 +10856,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/MrDemonRush"
     },
     "h0qw010xz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9697,6 +10900,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/NikitaKlepanosov"
@@ -9725,12 +10929,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/provedenceva"
     },
     "daryz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9770,6 +10976,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/SergeiObolevich"
@@ -9784,11 +10991,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "feulia": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9824,9 +11033,14 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/magi-a-2018Q3/pulls",
+       "mark": 80,
+       "comment": "выполнены только два пункта"
+      }
      ],
-     "gitHubLink": "https://github.com/magi-a"
+     "gitHubLink": "https://github.com/Magi-a"
     },
     "andrewyanushkevich": {
      "score": [
@@ -9843,6 +11057,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/andrewyanushkevich-2018Q3/pull/2",
        "mark": 70
       },
+      null,
       null,
       null,
       null,
@@ -9881,6 +11096,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/alexandrasitnikova"
@@ -9908,14 +11124,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/vitalibrych333-2018Q3/pull/7",
        "mark": 125
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vitalibrych333-2018Q3/pull/8",
+       "mark": 110
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vitalibrych333-2018Q3/pull/9",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/VitaliBrych333"
     },
     "pavelkiru": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9937,11 +11161,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "katezhukel": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -9977,12 +11203,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/apivovarchik"
     },
     "ruslandimitriuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10004,11 +11232,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "iamhappy2day": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10030,6 +11260,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -10043,11 +11274,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "stasnegreev": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10076,11 +11309,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "oliver337": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10102,6 +11337,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -10115,11 +11351,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "maryiasiamenava": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10148,6 +11386,7 @@
        "mark": 45,
        "comment": "В целом нормально"
       },
+      null,
       null,
       null,
       null,
@@ -10182,9 +11421,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/kirilltovpinets-2018Q3/pull/3",
        "mark": 100
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kirilltovpinets-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=W6H_D_9T7nE&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/kirilltovpinets-2018Q3"
     }
@@ -10197,6 +11443,7 @@
    "students": {
     "litwin90": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10234,6 +11481,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DzmitryBabak"
@@ -10264,9 +11512,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/systemghost-2018Q3/pull/3",
        "mark": 100
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/systemghost-2018Q3/pull/5",
+       "mark": 90
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/systemghost-2018Q3/pull/4",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/SystemGhost"
     },
@@ -10288,12 +11543,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/EugeneTime"
     },
     "alexnaidovich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10331,6 +11588,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/IvanchikovValentin"
@@ -10357,6 +11615,7 @@
        "mark": 65,
        "comment": "Не респонсив, есть недочеты, но в остальном неплохо."
       },
+      null,
       null,
       null,
       null,
@@ -10402,12 +11661,14 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/bardashevich-matvei"
     },
     "korbann": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10445,7 +11706,12 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/yevgeniypy-2018Q3/pull/3",
+       "mark": 90,
+       "comment": "-10 за просроченный дедлайн"
+      }
      ],
      "gitHubLink": "https://github.com/YevgeniyPy"
     },
@@ -10477,6 +11743,11 @@
        "mark": 30,
        "comment": "не используется вебпак, замечания по коду, не подключен линт, юзается верстка в index.html для рендера приложения,  нет плавной анимации, некорректно работает переключение, нет тестов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tatyana-andreichyk-2018Q3/pull/8/",
+       "mark": 5,
+       "comment": "Только заготовка под приложение"
+      },
       null,
       null,
       null
@@ -10485,6 +11756,7 @@
     },
     "supersmf": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10513,11 +11785,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "vovair": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10547,6 +11821,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/IngvarOldd"
@@ -10568,6 +11843,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/bragodin-2018Q3"
@@ -10584,6 +11860,7 @@
        "mark": 85,
        "comment": "не сделал функцию make, есть тесты, подключен eslint"
       },
+      null,
       null,
       null,
       null,
@@ -10623,7 +11900,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/samo-war-2018Q3/pull/5",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/samo-war-2018Q3"
     }
@@ -10636,6 +11917,7 @@
    "students": {
     "silichstudent": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10672,12 +11954,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=dK3G7D7GNPk",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/vvikota"
     },
     "leonard1k": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10711,7 +11998,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://youtu.be/qCLkZmV6YH0",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/mariakisel"
     },
@@ -10740,12 +12031,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=vfuokyE9oak",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/qxFisher"
     },
     "bulbazubr": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10787,12 +12083,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/SergeyBaranovichi"
     },
     "karina198": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10828,9 +12126,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/arturkudlo-2018Q3/pull/5",
        "mark": 110
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/arturkudlo-2018Q3/pull/6",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=UmkP4MmbzYs",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/ArturKudlo"
     },
@@ -10858,12 +12163,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DimasOFFF"
     },
     "6alex6kash6": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10905,6 +12212,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": " https://github.com/KirillFilipp"
@@ -10931,6 +12239,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/GemsGame"
@@ -10945,11 +12254,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "maxstarovoitov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -10981,9 +12292,16 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nemkev-2018Q3/pull/4",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/Nemkev/Presentation",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/Nemkev"
     }
@@ -11022,6 +12340,11 @@
        "mark": 70,
        "comment": "https://www.dropbox.com/s/5gsiz4jfyqxx50g/youtube-task.txt?dl=0"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/latiertiw-2018Q3/pull/4",
+       "mark": 0,
+       "comment": "Missed the deadline"
+      },
       null,
       null,
       null
@@ -11030,6 +12353,7 @@
     },
     "sined1": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11051,11 +12375,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "christinaalimova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11090,6 +12416,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/robertiqk"
@@ -11117,12 +12444,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/Pozharitskiy/Pozharitskij.github.io",
+       "mark": 100,
+       "comment": "Too short, not comprehensive overview of events"
+      }
      ],
      "gitHubLink": "https://github.com/Pozharitskiy"
     },
     "aliakseik19": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11160,7 +12493,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/Tarsupon/Presentation",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Tarsupon"
     }
@@ -11194,12 +12531,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/andrey-lobach"
     },
     "pitergtx": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11223,6 +12562,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/alexandravlasenko-2018Q3/pull/1",
        "mark": 85
       },
+      null,
       null,
       null,
       null,
@@ -11254,6 +12594,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/PainIncoming"
@@ -11275,11 +12616,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "evilamany": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11301,11 +12644,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "pelya98": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11334,11 +12679,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "ihartsykaka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11360,11 +12707,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "naijelo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11386,6 +12735,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -11399,11 +12749,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "zhechka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11432,11 +12784,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nikola2390": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11458,11 +12812,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yagorka1": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11491,11 +12847,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "ustilushka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11531,7 +12889,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/zzVIPz/Presentation-Q32018/pull/1",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/zzVIPz"
     },
@@ -11557,9 +12919,16 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dmitrylenko-2018Q3/pull/2",
+       "mark": 75
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/dmitrylenko-2018Q3",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/DmitryLenko"
     },
@@ -11583,6 +12952,7 @@
        "linkPR": "https://github.com/underdoglzd/markup-2018q3/pull/1",
        "mark": 75
       },
+      null,
       null,
       null,
       null,
@@ -11617,6 +12987,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/NoviceBlunderer"
@@ -11631,11 +13002,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "splin-shady": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11666,7 +13039,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/katrin-kot-2018Q3/pull/6",
+       "mark": 115
+      }
      ],
      "gitHubLink": "https://github.com/katrin-kot"
     },
@@ -11689,7 +13066,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gattygamaun-2018Q3/pull/6",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/gattygamaun"
     },
@@ -11712,7 +13093,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mariyapolt-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/MariyaPolt"
     }
@@ -11752,6 +13137,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/katepavlovich-2018Q3"
@@ -11785,6 +13171,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/youngbrick-2018Q3"
@@ -11801,6 +13188,7 @@
        "mark": 60,
        "comment": "нет тестов и линтера"
       },
+      null,
       null,
       null,
       null,
@@ -11837,12 +13225,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/kottt4-2018Q3"
     },
     "walkunderrain": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11871,11 +13261,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "uniqkue": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11897,11 +13289,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nikaneider": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -11943,7 +13337,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/rebellix-2018Q3/pull/4#event-2016722433",
+       "mark": 120,
+       "comment": "Очень хорошо и уверенно выступил с презентацией"
+      }
      ],
      "gitHubLink": "https://github.com/rebellix"
     }
@@ -11976,6 +13375,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/SBurnt"
@@ -12003,9 +13403,17 @@
        "linkPR": "https://github.com/rolling-scopes-school/tserekhivan-2018Q3/pull/3",
        "mark": 80
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tserekhivan-2018Q3/pull/4",
+       "mark": 90
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tserekhivan-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "Есть слайды, транскрипт, видео, презентация была прочитана предварительно в группе."
+      }
      ],
      "gitHubLink": "https://github.com/tserekhivan"
     },
@@ -12028,12 +13436,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/PresidentsBoyfriend"
     },
     "eugenekhristo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12054,6 +13464,7 @@
    "students": {
     "artichoks": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12087,6 +13498,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/AnastasiyaNovikovaG"
@@ -12109,6 +13521,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/margaretmint-2018Q3/pull/1",
        "mark": 85
       },
+      null,
       null,
       null,
       null,
@@ -12141,14 +13554,22 @@
        "mark": 128,
        "comment": "в первой оценке не заметил доп. заданий"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/anastasiyamazura-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/AnastasiyaMazura",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/AnastasiyaMazura"
     },
     "dezman66": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12186,6 +13607,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Exedystyle"
@@ -12214,9 +13636,16 @@
        "mark": 102,
        "comment": "не заметил одного выполненного доп. задания"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gaddyya-2018Q3/pull/4",
+       "mark": 125
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gaddyya-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/gaddyya"
     }
@@ -12250,9 +13679,17 @@
        "linkPR": "https://github.com/rolling-scopes-school/bsiropchik-2018Q3/pull/3",
        "mark": 85
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/bsiropchik-2018Q3/pull/4",
+       "mark": 75
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/bsiropchik/presentation",
+       "mark": 95,
+       "comment": "Не было прогона и нет транскрипта презентации, но по факту рассказывает практически все, что и так на слайдах."
+      }
      ],
      "gitHubLink": "https://github.com/bsiropchik"
     },
@@ -12281,6 +13718,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/scratchor"
@@ -12295,6 +13733,7 @@
        "linkPR": "https://github.com/scratchor/rsschool-codejam/pull/1",
        "mark": 70
       },
+      null,
       null,
       null,
       null,
@@ -12328,12 +13767,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/mrspunki"
     },
     "maksstef": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12365,6 +13806,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kozelkoff"
@@ -12379,11 +13821,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "gleb-kukobnikov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12417,12 +13861,17 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=EQ8wslPkhx8&feature=youtu.be",
+       "mark": 110
+      }
      ],
      "gitHubLink": "https://github.com/sokol147"
     },
     "dantewitcher": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12440,6 +13889,7 @@
        "linkPR": "https://github.com/Natiedei/rsschool-codejam1-cv/pull/1",
        "mark": 95
       },
+      null,
       null,
       null,
       null,
@@ -12473,7 +13923,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://www.youtube.com/watch?v=b3HHvpj1J0k&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/aliaksandrarybak"
     }
@@ -12506,7 +13960,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://youtu.be/RXu16bu1yLg",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/StationToStation"
     },
@@ -12528,14 +13986,25 @@
        "linkPR": "https://github.com/Tatsianacs/rsschool-codejam2-markup/pull/1",
        "mark": 80
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 75,
+       "comment": "Большое человеческое спасибо @Tatsianacs! Помогала не один раз, объясняет всегда подробно и понятно, отвечает доброжелательно и нормально даже на очень простые вопросы"
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/tatsianacs-2018Q3/pull/2",
        "mark": 125
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tatsianacs-2018Q3/pull/3",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=Sze0FEA7tr0",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Tatsianacs"
     },
@@ -12562,14 +14031,22 @@
        "linkPR": "https://github.com/rolling-scopes-school/kharuk-2018Q3/pull/4",
        "mark": 95
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kharuk-2018Q3/pull/5",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=wNcyOTinLww&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/kharuk"
     },
     "wald3": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12612,9 +14089,17 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/devildummy-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "все требования кодджема выполнены"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=BYwaB4sPz_4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/devildummy"
     },
@@ -12636,6 +14121,7 @@
        "mark": 90,
        "comment": "в комментарии к PR"
       },
+      null,
       null,
       null,
       null,
@@ -12668,14 +14154,22 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/serg8-2018Q3/pull/4",
+       "mark": 65
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=X_bfn25xuSA&feature=youtu.be",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Serg8"
     },
     "nik-av": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12697,11 +14191,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "tsygancova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12730,11 +14226,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "anastasia1627": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12762,6 +14260,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/basch1727"
@@ -12776,11 +14275,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "zartaich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12813,14 +14314,22 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/estel1591-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://estel1591.github.io/presentation/#/",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/estel1591"
     },
     "alekseymishuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12859,14 +14368,22 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/yuliyahlukhatarenka-2018Q3/pull/4",
+       "mark": 80
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://youtu.be/8qnKA0Q6d1w",
+       "mark": 100
+      }
      ],
      "gitHubLink": "https://github.com/YuliyaHlukhatarenka"
     },
     "lapa17": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12902,6 +14419,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DmitryLutskovich"
@@ -12916,11 +14434,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "atryomparfenenkov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -12964,12 +14484,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/evgenijkorob"
     },
     "anxair": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13007,9 +14529,17 @@
        "mark": 95,
        "comment": "хорошая работа"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/siarohin-2018Q3/pull/4",
+       "mark": 90
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=FguxFRqOCz0&feature=youtu.be",
+       "mark": 120,
+       "comment": "Презентация сдана в срок + офлайн"
+      }
      ],
      "gitHubLink": "https://github.com/siarohin"
     },
@@ -13036,14 +14566,23 @@
        "linkPR": "https://github.com/rolling-scopes-school/svyatlo-2018Q3/pull/3",
        "mark": 45
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/svyatlo-2018Q3/pull/4",
+       "mark": 10
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=TRIbdxwPKoc&feature=youtu.be",
+       "mark": 120,
+       "comment": "\nПрезентация сдана в срок + офлайн"
+      }
      ],
      "gitHubLink": "https://github.com/svyatlo"
     },
     "shurpelevas": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13084,12 +14623,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/AntonProtas"
     },
     "mickbetch": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13114,12 +14655,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/oconely"
     },
     "natalianekrashevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13149,14 +14692,24 @@
        "linkPR": "https://github.com/rolling-scopes-school/iryna-mazura-2018Q3/pull/1",
        "mark": 95
       },
-      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/iryna-mazura-2018Q3/pull/3/files",
+       "mark": 25
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/iryna-mazura-2018Q3/pull/3/files",
        "mark": 140
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/iryna-mazura-2018Q3/pull/4",
+       "mark": 130
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://iryna-mazura.github.io/presentation/",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/IRYNA-MAZURA"
     },
@@ -13170,11 +14723,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "garin87": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13218,7 +14773,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/tebeskashi-2018Q3/pull/4",
+       "mark": 70,
+       "comment": "Вообще по-хорошему можно было и снять некоторое количество баллов (уж очень короткая вышла презентация), но студент старался во что бы то ни стало сделать задание, хоть и с опозданием (проблемы с университетом - сессия то близко), молодец!"
+      }
      ],
      "gitHubLink": "https://github.com/TEBESKASHI"
     },
@@ -13250,14 +14810,24 @@
        "mark": 111,
        "comment": "Неплохая работа, но есть моменты касательно качества написанного кода, код стайла и тд. Также не использован webpack."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/pinkrefugee-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "Все требования выполнены."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/pinkrefugee-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "Оценка выставлена согласно соблюдения всех критериев в задании)"
+      }
      ],
      "gitHubLink": "https://github.com/pinkrefugee"
     },
     "daqueze21": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13279,11 +14849,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "lynyx": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13309,6 +14881,7 @@
        "mark": 85,
        "comment": "Макет соответствует дизайну, реализован слайдер, использовал sass. Нарекания в основном по код стайлу и семантике"
       },
+      null,
       null,
       null,
       null,
@@ -13339,6 +14912,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Colambus13"
@@ -13360,11 +14934,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "levsha87": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13386,11 +14962,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "achyrych": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13412,6 +14990,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -13425,11 +15004,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "sachoks": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13470,6 +15051,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/belkacraft"
@@ -13497,9 +15079,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/kasatka660-2018Q3/pull/3",
        "mark": 105
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kasatka660-2018Q3/pull/6",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/kasatka660-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/kasatka660"
     },
@@ -13526,9 +15115,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/warryr-2018Q3/pull/3",
        "mark": 70
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/warryr-2018Q3/pull/4",
+       "mark": 50
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/warryr-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/warryr"
     },
@@ -13542,11 +15138,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yuliabakhar": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13581,12 +15179,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/ivandubrouski"
     },
     "mrforsyte": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13608,11 +15208,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yuriy17": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13641,14 +15243,22 @@
       },
       null,
       null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/olgakuksa-2018Q3/pull/4",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://www.youtube.com/watch?v=M-tlmAVh8wo",
+       "mark": 100
+      }
      ],
-     "gitHubLink": "https://github.com/OlgaKuksa"
+     "gitHubLink": "https://github.com/OlgaKuksa/"
     },
     "eliznovo": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13662,6 +15272,7 @@
     },
     "vitalij21": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13696,6 +15307,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/OAliona"
@@ -13710,6 +15322,7 @@
        "linkPR": "https://github.com/Feodorius/rsschool-codejam/pull/1",
        "mark": 70
       },
+      null,
       null,
       null,
       null,
@@ -13736,6 +15349,7 @@
        "mark": 40,
        "comment": "просрочил, но в целом нормально"
       },
+      null,
       null,
       null,
       null,
@@ -13767,12 +15381,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DzianisKavalionak"
     },
     "alexsmyk1992": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13803,6 +15419,7 @@
        "mark": 79,
        "comment": "отлично"
       },
+      null,
       null,
       null,
       null,
@@ -13843,6 +15460,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/burach0k-2018Q3"
@@ -13870,12 +15488,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/denyingthetruth"
     },
     "invikto": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13910,6 +15530,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/khaliulinroman"
@@ -13931,11 +15552,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "pofs": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -13973,12 +15596,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/alexeykuril0-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "reveal is ok +20\nyoutube is ok +60\nthe transcription is also ok +20\npresentation with mentor +20"
+      }
      ],
      "gitHubLink": "https://github.com/alexeykuril0"
     },
     "kragov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14000,11 +15629,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "pivchenkosv": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14044,9 +15675,18 @@
        "mark": 110,
        "comment": "all requirements were met. No unit tests. ES6+ features."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/andreisavelyev-2018Q3/pull/4",
+       "mark": 60,
+       "comment": "no session swither and other additionals task, so 60 is an appropriate mark for this work."
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/andreisavelyev-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "reveal is ok\ntranscript is ok\nyoutube is ok\nmark is 120"
+      }
      ],
      "gitHubLink": "https://github.com/andreisavelyev"
     }
@@ -14075,6 +15715,11 @@
        "linkPR": "https://github.com/rolling-scopes-school/gegorov-2018Q3/pull/1",
        "mark": 65
       },
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/padawans",
+       "mark": 25,
+       "comment": "задает много толковых вопросов во время вебинаров rs-school app"
+      },
       null,
       null,
       null,
@@ -14085,6 +15730,7 @@
     },
     "ilyakabanov": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14119,9 +15765,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/yurec_0gurec-2018Q3/pull/3",
        "mark": 24
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/yurec_0gurec-2018Q3/pull/4",
+       "mark": 60
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/yurec_0gurec-2018Q3/pull/5",
+       "mark": 84
+      }
      ],
      "gitHubLink": "https://github.com/yurec0gurec"
     },
@@ -14149,9 +15802,16 @@
        "mark": 100,
        "comment": "Все основные требования выполнены"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gubnich-2018Q3/pull/6",
+       "mark": 90
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/gubnich-2018Q3/pull/7",
+       "mark": 95
+      }
      ],
      "gitHubLink": "https://github.com/gubnich"
     }
@@ -14164,6 +15824,7 @@
    "students": {
     "modrix": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14198,6 +15859,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/scarletcamomile"
@@ -14220,6 +15882,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/tani4ik-2018Q3/pull/1",
        "mark": 97
       },
+      null,
       null,
       null,
       null,
@@ -14247,6 +15910,7 @@
        "mark": 70,
        "comment": "сделаны 3 функции, -10 за время, линтера и тестов нет"
       },
+      null,
       null,
       null,
       null,
@@ -14287,7 +15951,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/ruboscope-2018Q3/pull/4",
+       "mark": 100,
+       "comment": "110 - 10 за 2 дня после дедлайна"
+      }
      ],
      "gitHubLink": "https://github.com/ruboscope"
     },
@@ -14309,6 +15978,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/alesya-polovets-2018Q3/pull/1",
        "mark": 90
       },
+      null,
       null,
       null,
       null,
@@ -14345,6 +16015,11 @@
        "mark": 25,
        "comment": "only API used with simple view, no animation, no resize, no pagination, no tests and 6 days after deadline "
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/geek10010-2018Q3/pull/4",
+       "mark": 50,
+       "comment": "нет тултипов, нет Comparison, последний коммит почти на час позже дедлайна"
+      },
       null,
       null,
       null
@@ -14379,9 +16054,18 @@
        "mark": 140,
        "comment": "Всё отлично, особо не к чему придраться, функционал реализован, анимация есть, es6 использован, вебпак подключен, тесты добавлены"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/antonykor-2018Q3/pull/4",
+       "mark": 130,
+       "comment": "Всё таски сделаны отлично + бонусное задание"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/antonykor-2018Q3/pull/5",
+       "mark": 110,
+       "comment": "agree with mark from the student in the pull request"
+      }
      ],
      "gitHubLink": "https://github.com/AntonyKor"
     },
@@ -14415,12 +16099,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/saniok017-2018Q3/pull/11",
+       "mark": 100,
+       "comment": "120 - 20 за слайды и не слишком внятную речь"
+      }
      ],
      "gitHubLink": "https://github.com/saniok017"
     },
     "dzmitryalfer": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14455,12 +16145,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/kottanaKor"
     },
     "daryazel": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14497,12 +16189,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/alenakharytonchyk-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/AlenaKharytonchyk"
     },
     "drizzlman": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14530,6 +16227,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/yonguksaram"
@@ -14543,6 +16241,7 @@
    "students": {
     "mailikey": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14578,9 +16277,16 @@
        "mark": 120,
        "comment": "не юзер френдли"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vladesco-2018Q3/pull/4",
+       "mark": 140
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vladesco-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/vladesco"
     },
@@ -14610,14 +16316,22 @@
        "mark": 80,
        "comment": "не респонсив, нет тестов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/drdiman-2018Q3/pull/4",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/drdiman-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/DrDiman"
     },
     "dzmitrymashuk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14639,11 +16353,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nickprudnik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14665,6 +16381,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     }
@@ -14677,6 +16394,7 @@
    "students": {
     "vergonini": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14716,9 +16434,17 @@
        "mark": 80,
        "comment": "Выполнено 75% требований. + 10 за es6. -5 за некорректное использование классов"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/katiar-2018Q3/pull/7",
+       "mark": 65,
+       "comment": "Выполнены только первые 3 пункта"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/katiar-2018Q3/pull/8",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/katiar"
     },
@@ -14732,11 +16458,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "kirillkolesnik123": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14765,11 +16493,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "krlktv": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14795,12 +16525,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/dsv-sergey"
     },
     "nadezhda-kotova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14819,6 +16551,7 @@
        "mark": 100,
        "comment": "Коммент был дан в секции комментов к PR"
       },
+      null,
       null,
       null,
       null,
@@ -14856,6 +16589,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/pavelLyolya"
@@ -14884,6 +16618,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/arkhipenka"
@@ -14906,12 +16641,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/ABespolov"
     },
     "zzhiharevich": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14936,12 +16673,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/DimasPivas"
     },
     "maxkonopelko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -14984,14 +16723,22 @@
        "mark": 75,
        "comment": "Выполнены не все требования к функционалу"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/garnich-2018Q3",
+       "mark": 10
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/garnich/garnich.github.io",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/garnich"
     },
     "altobeyk": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15025,12 +16772,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/stigmatory15"
     },
     "kmetkokate": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15076,6 +16825,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/annakolesnikova"
@@ -15104,7 +16854,11 @@
       null,
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/Eliendil/Presentation/tree/presentation_branch",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/Eliendil"
     },
@@ -15118,11 +16872,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "thecobolt": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15151,6 +16907,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -15166,6 +16923,7 @@
        "linkPR": "https://github.com/rolling-scopes-school/christopher-0118-2018Q3/pull/1",
        "mark": 35
       },
+      null,
       null,
       null,
       null,
@@ -15201,12 +16959,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/happy-Mary"
     },
     "onaker": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15243,6 +17003,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/IgorByl"
@@ -15264,12 +17025,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/MaksYermak"
     },
     "riba0017": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15314,12 +17077,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/fogfug1-2018Q3"
     },
     "yauhenilyin": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15357,12 +17122,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/rolling-scopes-school/dmitrigorchanin-2018Q3"
     },
     "soundmafi": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15406,12 +17173,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/aspowerr-2018Q3/pull/3",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/aspowerr"
     },
     "shchelkunchik": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15433,11 +17205,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "torioyoshiko": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15459,11 +17233,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yasell": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15485,6 +17261,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     }
@@ -15497,6 +17274,7 @@
    "students": {
     "wowprojeck": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15538,12 +17316,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/andvikvin-2018Q3/pull/4",
+       "mark": 110,
+       "comment": "Нет транскрипта, был прогон"
+      }
      ],
      "gitHubLink": "https://github.com/AndVikVin"
     },
     "alinkalu": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15585,7 +17369,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/marry705-2018Q3/pull/5",
+       "mark": 110,
+       "comment": "был прогон, небольшое опоздание по дедлайну"
+      }
      ],
      "gitHubLink": "https://github.com/marry705"
     },
@@ -15619,12 +17408,18 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/fursaleksey-2018Q3/pull/5",
+       "mark": 100,
+       "comment": "был прогон, немного опоздал с дедлайном"
+      }
      ],
      "gitHubLink": "https://github.com/FursAleksey"
     },
     "hursevichsergey": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15666,9 +17461,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/cuppake-2018Q3/pull/3",
        "mark": 107
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/cuppake-2018Q3/pull/5",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/cuppake-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/cuppake"
     },
@@ -15689,6 +17491,11 @@
        "linkPR": "https://github.com/rolling-scopes-school/pirsfrommi6-2018Q3/pull/1",
        "mark": 90,
        "comment": "Отличная работа. Немного не доделал мелкие критерии, но в целом очень аккуратно и красиво."
+      },
+      {
+       "linkPR": "https://gitter.im/rolling-scopes-school/announcements",
+       "mark": 25,
+       "comment": "орг фансайта http://rssbands.pro/ "
       },
       null,
       null,
@@ -15720,13 +17527,18 @@
        "mark": 70,
        "comment": "В целом неплохо, но к сожалению не все пункты задания выполнены."
       },
+      {
+       "linkPR": "https://github.com/luffi2539",
+       "mark": 25,
+       "comment": "Меў issue з OBS студыяй запісаў. Дзякуй  @Zerover @Aleksei (@aleksei-bulgak-study) @Luffi (@Luffi2539)  (мо кагось забыў) за дапамогу."
+      },
       null,
       null,
       null,
       null,
       null
      ],
-     "gitHubLink": "https://github.com/Luffi2539"
+     "gitHubLink": "https://github.com/luffi2539"
     },
     "kirilltk": {
      "score": [
@@ -15754,6 +17566,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/KirillTK"
@@ -15767,6 +17580,7 @@
    "students": {
     "bezchekera": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15800,12 +17614,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/nadinaaa"
     },
     "volunyshka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15845,7 +17661,12 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/grnkvch-2018Q3/tree/presentation",
+       "mark": 120,
+       "comment": "Получилось очень профессионально. Речь понятная. Интересно смотреть"
+      }
      ],
      "gitHubLink": "https://github.com/grnkvch"
     },
@@ -15859,11 +17680,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "yanamina": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15892,6 +17715,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -15905,11 +17729,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "eauheni": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15940,12 +17766,17 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/mikhailnakanechny-2018Q3/pull/5",
+       "mark": 95
+      }
      ],
      "gitHubLink": "https://github.com/mikhailnakanechny"
     },
     "maringoka": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -15988,9 +17819,16 @@
        "linkPR": "https://github.com/rolling-scopes-school/vitalur-2018Q3/pull/3",
        "mark": 20
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vitalur-2018Q3/pull/4",
+       "mark": 95
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/vitalur-2018Q3/pull/5",
+       "mark": 90
+      }
      ],
      "gitHubLink": "https://github.com/vitalur"
     },
@@ -16020,7 +17858,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/jrzlve-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/jrzlve"
     },
@@ -16042,12 +17884,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/panikutysh"
     },
     "vlukyane": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16094,9 +17938,16 @@
        "mark": 130,
        "comment": "Сдал позже на 3 дня по уважительной причине. Болел."
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/devbarden-2018Q3/pull/4",
+       "mark": 110
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/devbarden-2018Q3/pull/5",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/devbarden"
     },
@@ -16128,7 +17979,11 @@
       },
       null,
       null,
-      null
+      null,
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/nicklevkovich-2018Q3/pull/4",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/nicklevkovich"
     },
@@ -16144,6 +17999,7 @@
        "mark": 70,
        "comment": "Реализованы все функции, выполнены требования к репозиторию, коммитам и PR"
       },
+      null,
       null,
       null,
       null,
@@ -16172,12 +18028,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/Mrio1"
     },
     "alexkashpor": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16207,6 +18065,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/dmsomov"
@@ -16220,6 +18079,7 @@
    "students": {
     "mariannagarbuzova": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16260,6 +18120,7 @@
       },
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/pytniza"
@@ -16290,6 +18151,10 @@
        "linkPR": "https://github.com/rolling-scopes-school/ronavea-2018Q3/pull/5",
        "mark": 75
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/ronavea-2018Q3/pull/4",
+       "mark": 0
+      },
       null,
       null,
       null
@@ -16298,6 +18163,7 @@
     },
     "ahrechushkin": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16319,6 +18185,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     }
@@ -16331,6 +18198,7 @@
    "students": {
     "psychotheus": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16364,12 +18232,14 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/LowerShotower"
     },
     "bn1knb": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16401,20 +18271,33 @@
        "linkPR": "https://github.com/rolling-scopes-school/zerovers-2018Q3/pull/1",
        "mark": 70
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 50,
+       "comment": "Меў issue з OBS студыяй запісаў. Дзякуй  @Zerover @Aleksei (@aleksei-bulgak-study) @Luffi (@Luffi2539)  (мо кагось забыў) за дапамогу."
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/zerovers-2018Q3/pull/3",
        "mark": 130,
        "comment": "well done + unit tests"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/zerovers-2018Q3/pull/4",
+       "mark": 120,
+       "comment": "well done, small issues"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://youtu.be/Yy0AiwnXl60",
+       "mark": 120
+      }
      ],
-     "gitHubLink": "https://github.com/rolling-scopes-school/zerovers-2018Q3"
+     "gitHubLink": "https://github.com/zerovers"
     },
     "25kopek": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16435,6 +18318,7 @@
    "students": {
     "max-violent": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16474,14 +18358,24 @@
        "mark": 100,
        "comment": "interesting solution by storing current page number and total pages number in the html-element custom properties to use css animation for different browser width"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/rick42morty-2018Q3/pull/4",
+       "mark": 95,
+       "comment": "works well except previous participants data"
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/rick42morty-2018Q3/pull/5",
+       "mark": 120,
+       "comment": "very good"
+      }
      ],
      "gitHubLink": "https://github.com/rick42morty"
     },
     "dloz": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16503,11 +18397,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "tgfrey": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16542,6 +18438,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/slayer110"
@@ -16568,15 +18465,26 @@
        "mark": 100,
        "comment": "All given requirements were met, h1, code style, slider, responsive design, markup, some very minor style issues were met but overall the result is very good."
       },
-      null,
+      {
+       "linkPR": "https://docs.google.com/spreadsheets/d/1a0eKj_4io8oTsxniYTe1dg2wt_Los-vV4qV-uEOs-bI/edit#gid=0",
+       "mark": 25,
+       "comment": "большое спасибо за помощь на прошедшем джеме: помог с выгрузкой и обработкой файла."
+      },
       {
        "linkPR": "https://github.com/rolling-scopes-school/quiquek007-2018Q3/pull/2",
        "mark": 110,
        "comment": "no tests"
       },
+      {
+       "linkPR": "https://github.com/rolling-scopes-school/quiquek007-2018Q3/pull/3",
+       "mark": 100
+      },
       null,
       null,
-      null
+      {
+       "linkPR": "https://github.com/quiquek007/Presentation",
+       "mark": 120
+      }
      ],
      "gitHubLink": "https://github.com/quiquek007"
     },
@@ -16589,6 +18497,7 @@
        "mark": 70,
        "comment": "No keyboard support, bad commit messages, no package.json, no css linting/formatting"
       },
+      null,
       null,
       null,
       null,
@@ -16614,6 +18523,7 @@
       null,
       null,
       null,
+      null,
       null
      ],
      "gitHubLink": "https://github.com/ksenia-ok"
@@ -16623,13 +18533,13 @@
       null,
       {
        "linkPR": "https://github.com/Artsiom-Zhuk/rsschool-codejam/pull/1",
-       "mark": 70,
-       "comment": "Задачи выполнены. Отсутстовал сodeStyle как таковой. Указал на ошибки, предоставил ссылки на airbnb StyleGuide, хотя одна из подтасок была связана с ним. На первый раз не снижал баллы за не очень читабельный \"шкод\" ;)"
+       "mark": 80
       },
       {
        "linkPR": "https://github.com/rolling-scopes-school/artsiom-zhuk-2018Q3/pull/2",
        "mark": 90
       },
+      null,
       null,
       null,
       null,
@@ -16656,11 +18566,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "nicalas93": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16682,11 +18594,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "shinoby85": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16715,11 +18629,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "tvorchud": {
      "score": [
+      null,
       null,
       null,
       null,
@@ -16741,6 +18657,7 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
@@ -16754,11 +18671,13 @@
       null,
       null,
       null,
+      null,
       null
      ]
     },
     "fcsm-andrei": {
      "score": [
+      null,
       null,
       null,
       null,

@@ -157,12 +157,16 @@ class Parser {
       console.log('Saved!');
     });
   }
+
+  doIt() {
+    this.parseTasks();
+    this.parseMentors();
+    this.parsePairs();
+    this.parseScores();
+    this.check();
+    this.writeFile('schoo');
+  }
 }
 
 const parser = new Parser;
-parser.parseTasks();
-parser.parseMentors();
-parser.parsePairs();
-parser.parseScores();
-parser.check();
-parser.writeFile('schoo');
+parser.doIt();
