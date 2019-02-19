@@ -15,11 +15,12 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "testDOM": "react-scripts test",
+    "test": "jest parser.test.js",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "parser": "node parser.js",
+    "parser": "node ./parser/parser.js",
     "eslint": "node ./node_modules/eslint/bin/eslint.js ./src/*.js"
   },
   "eslintConfig": {

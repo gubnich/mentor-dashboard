@@ -163,11 +163,11 @@ class Parser {
     this.parsePairs();
     this.parseScores();
     this.check();
-    this.writeFile('schoo');
+    this.writeFile('school');
   }
 }
 
 const parser = new Parser;
 parser.doIt();
 
-export default Parser;
+module.exports = parser;
