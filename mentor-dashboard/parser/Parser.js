@@ -101,7 +101,7 @@ class Parser {
           score: Array(size)
         };
       } else {
-        console.log('!!!!!!!!!!!!!!!!!!!',item);
+        this.mistakes.inPairs.cases.add(item[0]);
       }
     })
   }
@@ -116,7 +116,7 @@ class Parser {
       if (this.outputData.mentors[mentorLogin]) {
         mentor = this.outputData.mentors[mentorLogin];
       } else {
-        this.mistakes.inScores.cases.add(item[2])
+        this.mistakes.inScores.cases.add(item[2]);
       }
       if (this.outputData.tasks.names.indexOf(item[3]) >= 0) {
         task = this.outputData.tasks.names.indexOf(item[3]);
@@ -141,10 +141,9 @@ class Parser {
     this.inputData.pairs.forEach(item => {
       if(item.length < 3) this.mistakes.inPairs.cases.add(item[0]);
     })
-    
-    console.log(this.mistakes.inPairs.description, this.mistakes.inPairs.cases);
-    console.log(this.mistakes.inScores.description, this.mistakes.inScores.cases);
-    console.log(this.mistakes.inTasks.description, this.mistakes.inTasks.cases);
+    Object.values(this.mistakes).forEach((item) => {
+      console.log(item.description, Array.from(item.cases));
+    })
   }
 
   writeFile(name, isMin) {
