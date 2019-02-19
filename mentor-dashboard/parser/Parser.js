@@ -169,3 +169,5 @@ class Parser {
 
 const parser = new Parser;
 parser.doIt();
+
+export default Parser;
