@@ -108,7 +108,7 @@ class Parser {
   }
 
   parseScores() {
-    this.inputData.scores.forEach((item, i) => {
+    this.inputData.scores.forEach(item => {
       const mentorLogin = item[8];
       const studentLogin = this.getGitHubLogin(item[2]).toLowerCase();
       let mentor;

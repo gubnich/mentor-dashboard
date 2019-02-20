@@ -89,3 +89,20 @@ describe('parsePairs', () => {
     })
   });
 });
+
+describe('parseScores', () => {
+  it("should add scores and a githubLink to the student", () => {
+    parser.inputData.scores.forEach(item => {
+      const mentorLogin = item[8];
+      const studentLogin = parser.getGitHubLogin(item[2]).toLowerCase();
+      const student = parser.outputData.mentors[mentorLogin].students[studentLogin];
+      const task = parser.outputData.tasks.names.indexOf(item[3]);
+      if (student && task >= 0) {
+        expect(student.hasOwnProperty('gitHubLink')).toBe(true);
+        expect(student.score[task].hasOwnProperty('linkPR')).toBe(true);
+        expect(student.score[task].hasOwnProperty('mark')).toBe(true);
+        expect(student.score[task].hasOwnProperty('comment')).toBe(true);
+      }
+    })
+  });
+});
