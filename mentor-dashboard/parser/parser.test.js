@@ -78,3 +78,14 @@ describe('parseMentors', () => {
     })
   });
 });
+
+describe('parsePairs', () => {
+  it("assigns a student with initial property 'score' to each mentor of pairs", () => {
+    parser.inputData.pairs.forEach(item => {
+      if(parser.outputData.mentors[item[2]]) {
+        const studentLogin = `${item[1]}`.toLowerCase();
+        expect(parser.outputData.mentors[item[2]].students[studentLogin].hasOwnProperty('score')).toBe(true);
+      }
+    })
+  });
+});
