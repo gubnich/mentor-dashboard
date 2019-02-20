@@ -58,3 +58,23 @@ describe('parseTasks', () => {
     }
   });
 });
+
+describe('parseMentors', () => {
+  it("should fill outputData.mentors with data from inputData.mentors", () => {
+    parser.inputData.mentors.forEach(item => {
+      const mentorLogin = parser.getGitHubLogin(item[4]);
+      const mentorLoginLow = mentorLogin.toLowerCase();
+      if (mentorLogin == 'undefined') return;
+      const mentorIn = {
+        name: `${item[0]} ${item[1]}`,
+        login: mentorLogin,
+        city: item[2],
+        students: {}
+      }
+      const mentorOut = parser.outputData.mentors[mentorLoginLow];
+      expect([mentorOut.city, mentorOut.login, mentorOut.name])
+      .toEqual([mentorIn.city, mentorIn.login, mentorIn.name]);
+      expect(mentorOut.hasOwnProperty('students')).toBe(true);
+    })
+  });
+});

@@ -9,7 +9,7 @@ class Parser {
       mentors: this.getExcelSheet('data/Mentor-students pairs.xlsx', 1),
       tasks: this.getExcelSheet('data/Tasks.xlsx', 0),
     };
-    console.log(this.inputData.tasks);
+    console.log(this.inputData.mentors.length);
     this.replacePatterns = [
       /.*rolling-scopes-school\/|.*github\.com\//,
       /-2018Q3/,
@@ -78,7 +78,7 @@ class Parser {
   }
 
   parseMentors() {
-    this.inputData.mentors.forEach((item, i) => {
+    this.inputData.mentors.forEach(item => {
       const mentorLogin = this.getGitHubLogin(item[4]);
       const mentorLoginLow = mentorLogin.toLowerCase();
       if (mentorLogin == 'undefined') return;
