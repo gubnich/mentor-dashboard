@@ -44,3 +44,17 @@ describe('addLoginToPairs', () => {
     })
   });
 });
+
+describe('parseTasks', () => {
+  it("should fill outputData.tasks with data from inputData.tasks", () => {
+    const numberOfTasks = parser.inputData.tasks.length;
+    for(let i = 0; i < numberOfTasks; i++) {
+      const taskNameOut = parser.outputData.tasks.names[i];
+      const taskLinkOut = parser.outputData.tasks.links[i];
+      const taskStatusOut = parser.outputData.tasks.statuses[i];
+      const [taskNameIn, taskLinkIn, taskStatusIn] = parser.inputData.tasks[i];
+      expect([taskNameOut, taskLinkOut, taskStatusOut])
+      .toEqual([taskNameIn.trim(), taskLinkIn, taskStatusIn.trim()]);
+    }
+  });
+});

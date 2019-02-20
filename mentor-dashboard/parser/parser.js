@@ -9,6 +9,7 @@ class Parser {
       mentors: this.getExcelSheet('data/Mentor-students pairs.xlsx', 1),
       tasks: this.getExcelSheet('data/Tasks.xlsx', 0),
     };
+    console.log(this.inputData.tasks);
     this.replacePatterns = [
       /.*rolling-scopes-school\/|.*github\.com\//,
       /-2018Q3/,
