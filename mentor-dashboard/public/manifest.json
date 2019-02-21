@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Mentor dashboard",
+  "name": "React App mentor dashboard",
   "icons": [
     {
       "src": "favicon.ico",
