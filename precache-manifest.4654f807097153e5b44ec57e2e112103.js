@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/mentor-dashboard/static/js/runtime~main.5357f730.js"
   },
   {
-    "revision": "2cb57f1ad2b7e3796cb8",
-    "url": "/mentor-dashboard/static/js/main.2cb57f1a.chunk.js"
+    "revision": "a0d2e44b58b661018fdf",
+    "url": "/mentor-dashboard/static/js/main.a0d2e44b.chunk.js"
   },
   {
-    "revision": "60809004931da474f744",
-    "url": "/mentor-dashboard/static/js/2.60809004.chunk.js"
+    "revision": "523af77fd110103ce6c5",
+    "url": "/mentor-dashboard/static/js/2.523af77f.chunk.js"
   },
   {
-    "revision": "2cb57f1ad2b7e3796cb8",
+    "revision": "a0d2e44b58b661018fdf",
     "url": "/mentor-dashboard/static/css/main.93de424a.chunk.css"
   },
   {
-    "revision": "c3ec94ed4dd29e9cd0666f6651c2b054",
+    "revision": "46d7ee7bbe4cbdf51ba028daf30953ba",
     "url": "/mentor-dashboard/index.html"
   }
 ];
