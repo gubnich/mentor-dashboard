@@ -9,8 +9,8 @@ const config = {
   messagingSenderId: "1070646049854"
 };
 const fire = firebase.initializeApp(config);
-var provider = new firebase.auth.GithubAuthProvider();
-provider.addScope('repo');
+const provider = new firebase.auth.GithubAuthProvider();
+provider.addScope('read:user');
 /*
 fire.auth().signInWithPopup(provider).then(function(result) {
   // This gives you a GitHub Access Token. You can use it to access the GitHub API.
