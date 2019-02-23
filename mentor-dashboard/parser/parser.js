@@ -9,7 +9,6 @@ class Parser {
       mentors: this.getExcelSheet('data/Mentor-students pairs.xlsx', 1),
       tasks: this.getExcelSheet('data/Tasks.xlsx', 0),
     };
-    console.log(this.inputData.mentors.length);
     this.replacePatterns = [
       /.*rolling-scopes-school\/|.*github\.com\//,
       /-2018Q3/,
@@ -48,7 +47,7 @@ class Parser {
   getGitHubLogin(gitHubLink) {
     let link = gitHubLink;
     this.replacePatterns.forEach(item => link = link.replace(item, ''))
-    return link.trim();
+    return link.trim().toLowerCase();
   }
 
   addLoginToPairs(name, login) {
@@ -62,7 +61,7 @@ class Parser {
 
   addLoginToScores(studentLogin, mentorLogin) {
     this.inputData.scores.forEach(item => {
-      if(item.length > 0 && this.getGitHubLogin(item[2]).toLowerCase() === studentLogin) {
+      if(item.length > 0 && this.getGitHubLogin(item[2]) === studentLogin) {
         item[8] = mentorLogin;
       } 
     })
@@ -80,16 +79,14 @@ class Parser {
   parseMentors() {
     this.inputData.mentors.forEach(item => {
       const mentorLogin = this.getGitHubLogin(item[4]);
-      const mentorLoginLow = mentorLogin.toLowerCase();
-      if (mentorLogin == 'undefined') return;
+      if (typeof mentorLogin === 'undefined') return;
       const mentor = {
         name: `${item[0]} ${item[1]}`,
-        login: mentorLogin,
         city: item[2],
         students: {}
       }
-      this.outputData.mentors[mentorLoginLow] = mentor;
-      this.addLoginToPairs(mentor.name, mentorLoginLow);
+      this.outputData.mentors[mentorLogin] = mentor;
+      this.addLoginToPairs(mentor.name, mentorLogin);
     })
   }
 
@@ -110,7 +107,7 @@ class Parser {
   parseScores() {
     this.inputData.scores.forEach(item => {
       const mentorLogin = item[8];
-      const studentLogin = this.getGitHubLogin(item[2]).toLowerCase();
+      const studentLogin = this.getGitHubLogin(item[2]);
       let mentor;
       let task;
       let student;

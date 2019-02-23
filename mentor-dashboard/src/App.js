@@ -32,9 +32,7 @@ class App extends Component {
       }
     );
   }
-  // getGithubName(id) {
-    
-  // }
+  
   login() {
     fb.login().then(({ user }) => {
       fetch(`https://api.github.com/user/${user.providerData[0].uid}`)
@@ -81,7 +79,6 @@ class App extends Component {
         <header className="appHeader">
           <Select options={this.state.options} 
                   onChange={this.handleChange}
-                  // placeholder={''}
                   defaultValue={this.setDefaultMentor()}
                   theme={(theme) => ({
                     ...theme,
@@ -104,19 +101,18 @@ class App extends Component {
       return (
       <div className="app">
         <div className="entrance">
-       
-    <div className="btn" onClick={this.login}><span>Login</span></div>
-        <ul className="fileLinks">
-          <li>
-            <a href="https://docs.google.com/spreadsheets/d/1-HYzpnEYpIsv5qSSuSZCgKf5-mYnG0T3Xt864Hhdnew/edit?usp=drive_open&ouid=0">Pairs</a>
-          </li>
-          <li>
-            <a href="https://docs.google.com/spreadsheets/d/1uojrkWfoLh9oTKxLWCdirrNJYGVfCtiF9RlZrwsxSbo/edit#gid=0">Tasks</a>
-          </li>
-          <li>
-            <a href="https://docs.google.com/spreadsheets/d/18exMEOWGKsMPggt0t3yU-MR1gvX3OFBDqKCvdNy8rAU/edit#gid=104739544">Scores</a>
-          </li>
-        </ul>
+          <div className="btn" onClick={this.login}><span>Login</span></div>
+          <ul className="fileLinks">
+            <li>
+              <a href="https://docs.google.com/spreadsheets/d/1-HYzpnEYpIsv5qSSuSZCgKf5-mYnG0T3Xt864Hhdnew/edit?usp=drive_open&ouid=0">Pairs</a>
+            </li>
+            <li>
+              <a href="https://docs.google.com/spreadsheets/d/1uojrkWfoLh9oTKxLWCdirrNJYGVfCtiF9RlZrwsxSbo/edit#gid=0">Tasks</a>
+            </li>
+            <li>
+              <a href="https://docs.google.com/spreadsheets/d/18exMEOWGKsMPggt0t3yU-MR1gvX3OFBDqKCvdNy8rAU/edit#gid=104739544">Scores</a>
+            </li>
+          </ul>
         </div>
       </div>);
     }

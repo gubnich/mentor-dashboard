@@ -15,7 +15,6 @@ body {
 }
 ul {
     list-style: none;
-   
 }
 li {
     display: flex;
@@ -51,8 +50,8 @@ li {
 }
 .tasksList a {
     display: flex;
-    padding-left: 1rem;
     width: 100%;
+    padding-left: 1rem;
     align-items: center;
     color: #10161D;
     text-decoration: none;
@@ -133,18 +132,16 @@ li {
     margin-left: 0;
 }
 .fileLinks a {
+    display: flex;
     height: 100%;
     width: 100%;
-    background-image: url('./file-icon.svg');
-    background-repeat: no-repeat;
-    -background-size: 70% 100%;
-    display: flex;
     justify-content: center;
     align-items: flex-end;
+    background-image: url('./file-icon.svg');
+    background-repeat: no-repeat;
     background-position: center;
     text-decoration: none;
     color: #F2F2F2;
-
 }
 .fileLinks a:hover {
     background-image: url('./file-icon-hover.svg');

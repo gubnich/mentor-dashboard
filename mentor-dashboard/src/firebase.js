@@ -1,4 +1,5 @@
-import firebase from "firebase";
+import firebase from 'firebase/app';
+import 'firebase/auth';
 
 const config = {
   apiKey: "AIzaSyC4hg8iF0GYzvmMB9OolQjrT6S5sNO2Mq0",
@@ -11,24 +12,7 @@ const config = {
 const fire = firebase.initializeApp(config);
 const provider = new firebase.auth.GithubAuthProvider();
 provider.addScope('read:user');
-/*
-fire.auth().signInWithPopup(provider).then(function(result) {
-  // This gives you a GitHub Access Token. You can use it to access the GitHub API.
-  var token = result.credential.accessToken;//eslint-disable-line
-  // The signed-in user info.
-  var user = result.user;//eslint-disable-line
-  // ...
-}).catch(function(error) {
-  // Handle Errors here.
-  var errorCode = error.code;//eslint-disable-line
-  var errorMessage = error.message;//eslint-disable-line
-  // The email of the user's account used.
-  var email = error.email;//eslint-disable-line
-  // The firebase.auth.AuthCredential type that was used.
-  var credential = error.credential;//eslint-disable-line
-  // ...
-});
-*/
+
 export const fb = {
   login: () => fire.auth().signInWithPopup(provider)
 }

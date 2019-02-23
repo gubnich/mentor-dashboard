@@ -22,7 +22,7 @@ describe('addLoginToScores', () => {
     parser.inputData.scores.forEach(row => {
       if(row[8].length) {
         parser.inputData.pairs.forEach(item => {
-          if (parser.getGitHubLogin(row[2]).toLowerCase() === item[1]) {
+          if (parser.getGitHubLogin(row[2]) === item[1]) {
             expect(row[8]).toEqual(item[2]);
           }
         })
@@ -37,7 +37,7 @@ describe('addLoginToPairs', () => {
       if (row[2].length) {
         parser.inputData.mentors.forEach(item => {
           if (`${item[0]} ${item[1]}` === row[0]) {
-            expect(row[2]).toEqual(parser.getGitHubLogin(item[4]).toLowerCase());
+            expect(row[2]).toEqual(parser.getGitHubLogin(item[4]));
           }
         })
       }
@@ -63,17 +63,15 @@ describe('parseMentors', () => {
   it("should fill outputData.mentors with data from inputData.mentors", () => {
     parser.inputData.mentors.forEach(item => {
       const mentorLogin = parser.getGitHubLogin(item[4]);
-      const mentorLoginLow = mentorLogin.toLowerCase();
-      if (mentorLogin == 'undefined') return;
+      if (typeof mentorLogin === 'undefined') return;
       const mentorIn = {
         name: `${item[0]} ${item[1]}`,
-        login: mentorLogin,
         city: item[2],
         students: {}
       }
-      const mentorOut = parser.outputData.mentors[mentorLoginLow];
-      expect([mentorOut.city, mentorOut.login, mentorOut.name])
-      .toEqual([mentorIn.city, mentorIn.login, mentorIn.name]);
+      const mentorOut = parser.outputData.mentors[mentorLogin];
+      expect([mentorOut.city, mentorOut.name])
+      .toEqual([mentorIn.city, mentorIn.name]);
       expect(mentorOut.hasOwnProperty('students')).toBe(true);
     })
   });
@@ -94,7 +92,7 @@ describe('parseScores', () => {
   it("should add scores and a githubLink to the student", () => {
     parser.inputData.scores.forEach(item => {
       const mentorLogin = item[8];
-      const studentLogin = parser.getGitHubLogin(item[2]).toLowerCase();
+      const studentLogin = parser.getGitHubLogin(item[2]);
       const student = parser.outputData.mentors[mentorLogin].students[studentLogin];
       const task = parser.outputData.tasks.names.indexOf(item[3]);
       if (student && task >= 0) {

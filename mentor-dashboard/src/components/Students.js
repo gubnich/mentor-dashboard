@@ -18,7 +18,6 @@ function Students(props) {
                   let link =  item ? item.linkPR : null;
                   let comment =  item ? item.comment : null;
                   return <Mark mark={mark} status={statuses[i]} key={i} link={link} comment={comment} />
-                  // else return <li key={i}></li>
                 })}
               </ul>
             </li>
