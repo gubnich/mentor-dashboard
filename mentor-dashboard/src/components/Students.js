@@ -2,7 +2,7 @@ import React from 'react';
 import Mark from './Mark';
 
 function Students(props) {
-  if(props.data && props.mentor) {console.log(props.data.tasks.statuses);
+  if(props.data && props.mentor) {
     const students = props.data.mentors[props.mentor].students;
     const statuses = props.data.tasks.statuses;
 
