@@ -40,7 +40,6 @@
  "mentors": {
   "maximuk": {
    "name": "Sergey Maksimuk",
-   "login": "maximuk",
    "city": "Брест",
    "students": {
     "andrei-oksentyk": {
@@ -368,7 +367,6 @@
   },
   "gubnich": {
     "name": "Sergey Maksimuk",
-    "login": "maximuk",
     "city": "Брест",
     "students": {
      "andrei-oksentyk": {
@@ -696,7 +694,6 @@
    },
   "alex-zayats": {
    "name": "Aliaksandr Zayats",
-   "login": "alex-zayats",
    "city": "Гомель",
    "students": {
     "uniorunr": {
@@ -780,7 +777,6 @@
   },
   "aliaksandrzahorski": {
    "name": "Akiaksandr Zahorski",
-   "login": "AliaksandrZahorski",
    "city": "Гомель",
    "students": {
     "grenbork": {
@@ -882,7 +878,6 @@
   },
   "pristavka": {
    "name": "Siarhei Prystauka",
-   "login": "Pristavka",
    "city": "Гомель",
    "students": {
     "jamadamur": {
@@ -1012,7 +1007,6 @@
   },
   "dpryshchep": {
    "name": "Dzianis Pryshchep",
-   "login": "dpryshchep",
    "city": "Гомель",
    "students": {
     "kira2023": {
@@ -1124,7 +1118,6 @@
   },
   "quantum-noise": {
    "name": "Aliaksandr Klimau",
-   "login": "quantum-noise",
    "city": "Гомель",
    "students": {
     "803142": {
@@ -1260,7 +1253,6 @@
   },
   "ahaurylin": {
    "name": "Artsiom Haurylin",
-   "login": "ahaurylin",
    "city": "Гомель",
    "students": {
     "olgaluk": {
@@ -1342,7 +1334,6 @@
   },
   "elgrebenchuk": {
    "name": "Elena Grebenchuk",
-   "login": "elgrebenchuk",
    "city": "Гомель",
    "students": {
     "andreiyasinski": {
@@ -1447,7 +1438,6 @@
   },
   "yganda": {
    "name": "Andrei Furs",
-   "login": "yganda",
    "city": "Гомель",
    "students": {
     "ishelest": {
@@ -1552,7 +1542,6 @@
   },
   "denisbun": {
    "name": "Dzianis Bunchanka",
-   "login": "DenisBun",
    "city": "Гомель",
    "students": {
     "kvinto1986": {
@@ -1675,7 +1664,6 @@
   },
   "remapasov": {
    "name": "Rem Apasov",
-   "login": "remapasov",
    "city": "Гомель",
    "students": {
     "frol8612": {
@@ -1770,7 +1758,6 @@
   },
   "tatsianakhinevich-epam": {
    "name": "Tatsiana Khinevich",
-   "login": "TatsianaKhinevich-EPAM",
    "city": "Гродно",
    "students": {
     "makouskiyan": {
@@ -1805,7 +1792,6 @@
   },
   "andrei-zhuk": {
    "name": "Andrei Zhuk",
-   "login": "Andrei-Zhuk",
    "city": "Минск",
    "students": {
     "torchik-slava": {
@@ -1974,7 +1960,6 @@
   },
   "nikitzu": {
    "name": "Mikita Zhuikou",
-   "login": "Nikitzu",
    "city": "Минск",
    "students": {
     "felalag": {
@@ -2147,7 +2132,6 @@
   },
   "alex-mnsk": {
    "name": "Aliaksei Zayats",
-   "login": "alex-mnsk",
    "city": "Минск",
    "students": {
     "kozyritskiy": {
@@ -2297,7 +2281,6 @@
   },
   "pavelzaletski": {
    "name": "Pavel Zaletski",
-   "login": "PavelZaletski",
    "city": "Минск",
    "students": {
     "andddrews": {
@@ -2444,7 +2427,6 @@
   },
   "yana95": {
    "name": "Yana Zaitsava",
-   "login": "yana95",
    "city": "Минск",
    "students": {
     "mikhailmaniuk": {
@@ -2542,7 +2524,6 @@
   },
   "tibmt": {
    "name": "Pavel Yukhnevich",
-   "login": "tibmt",
    "city": "Минск",
    "students": {
     "kasiama": {
@@ -2656,7 +2637,6 @@
   },
   "a-yatskevich": {
    "name": "Anton Yatskevich",
-   "login": "a-yatskevich",
    "city": "Минск",
    "students": {
     "mrdreaml": {
@@ -2789,7 +2769,6 @@
   },
   "viktoriyavorozhun": {
    "name": "Viktoriya Vorozhun",
-   "login": "ViktoriyaVorozhun",
    "city": "Минск",
    "students": {
     "toxandreev": {
@@ -2890,7 +2869,6 @@
   },
   "nikolaiverbitskii": {
    "name": "Nikolai Verbitskii",
-   "login": "NikolaiVerbitskii",
    "city": "Минск",
    "students": {
     "shanhinpavel": {
@@ -3005,7 +2983,6 @@
   },
   "sijlver": {
    "name": "Igor Tsialiuk",
-   "login": "sijlver",
    "city": "Минск",
    "students": {
     "metre-ray": {
@@ -3100,7 +3077,6 @@
   },
   "ntrukhanovets": {
    "name": "MIKITA TRUKHANAVETS",
-   "login": "ntrukhanovets",
    "city": "Минск",
    "students": {
     "vanyatsar": {
@@ -3216,7 +3192,6 @@
   },
   "kvtofan": {
    "name": "Kiryl Tofan",
-   "login": "KVtofan",
    "city": "Минск",
    "students": {
     "thesheepman": {
@@ -3337,7 +3312,6 @@
   },
   "etatarinovich18": {
    "name": "Katsiaryna Tatarynovich",
-   "login": "etatarinovich18",
    "city": "Минск",
    "students": {
     "kaleniksasha": {
@@ -3464,7 +3438,6 @@
   },
   "einfachvlad": {
    "name": "Uladzislau Tarasenka",
-   "login": "einfachvlad",
    "city": "Минск",
    "students": {
     "aleksei-bulgak-study": {
@@ -3575,7 +3548,6 @@
   },
   "aliaksandrt": {
    "name": "Aliaksandr Tachko",
-   "login": "aliaksandrT",
    "city": "Минск",
    "students": {
     "leshich": {
@@ -3671,7 +3643,6 @@
   },
   "sushchenja": {
    "name": "Dzianis Sushchenya",
-   "login": "sushchenja",
    "city": "Минск",
    "students": {
     "nightman20104": {
@@ -3797,7 +3768,6 @@
   },
   "sulemanof": {
    "name": "Daniil Suleiman",
-   "login": "sulemanof",
    "city": "Минск",
    "students": {
     "heaveek": {
@@ -3922,7 +3892,6 @@
   },
   "nsubbot": {
    "name": "Mikita Subbot",
-   "login": "nsubbot",
    "city": "Минск",
    "students": {
     "eughene-cherepov": {
@@ -4075,7 +4044,6 @@
   },
   "stpnvntn": {
    "name": "Anton Stsiapanau",
-   "login": "stpnvntn",
    "city": "Минск",
    "students": {
     "metalhammer4": {
@@ -4216,7 +4184,6 @@
   },
   "shuspes": {
    "name": "Alexander Spesivtsev",
-   "login": "shuspes",
    "city": "Минск",
    "students": {
     "prudnikov888": {
@@ -4327,7 +4294,6 @@
   },
   "mikalai-sokarau": {
    "name": "Mikalai Sokarau",
-   "login": "mikalai-sokarau",
    "city": "Минск",
    "students": {
     "f8b23lef": {
@@ -4452,7 +4418,6 @@
   },
   "kseniyasmorshchek": {
    "name": "Kseniya Smorshchek",
-   "login": "KseniyaSmorshchek",
    "city": "Минск",
    "students": {
     "ltcolumbo": {
@@ -4565,7 +4530,6 @@
   },
   "arhigod": {
    "name": "Arseni Shynkarenka",
-   "login": "arhigod",
    "city": "Минск",
    "students": {
     "nastya-ropot": {
@@ -4739,7 +4703,6 @@
   },
   "atzkdeff": {
    "name": "Andrei Shyliahin",
-   "login": "Atzkdeff",
    "city": "Минск",
    "students": {
     "olegkizz": {
@@ -4861,7 +4824,6 @@
   },
   "shutya": {
    "name": "Dzianis Shutsikau",
-   "login": "Shutya",
    "city": "Минск",
    "students": {
     "kirillstarlight": {
@@ -5017,7 +4979,6 @@
   },
   "klim711": {
    "name": "Klim Shuplenkou",
-   "login": "Klim711",
    "city": "Минск",
    "students": {
     "dmlaziuk": {
@@ -5093,7 +5054,6 @@
   },
   "elenashokhanepam": {
    "name": "Elena Shokhan",
-   "login": "ElenaShokhanEPAM",
    "city": "Минск",
    "students": {
     "aborisenok": {
@@ -5228,7 +5188,6 @@
   },
   "manuminsk": {
    "name": "Andrei Shelenhouski",
-   "login": "manuminsk",
    "city": "Минск",
    "students": {
     "smajlichak": {
@@ -5346,7 +5305,6 @@
   },
   "davojta": {
    "name": "Dzianis Sheka",
-   "login": "davojta",
    "city": "Минск",
    "students": {
     "pavalescoba": {
@@ -5666,7 +5624,6 @@
   },
   "naooki": {
    "name": "Yahor Sheinikau",
-   "login": "Naooki",
    "city": "Минск",
    "students": {
     "eveshad": {
@@ -5810,7 +5767,6 @@
   },
   "forkollaider": {
    "name": "Tsikhan Shcharbakou",
-   "login": "forkollaider",
    "city": "Минск",
    "students": {
     "aalexsoloveiko": {
@@ -5908,7 +5864,6 @@
   },
   "hirurgo": {
    "name": "Mikalai Shchakatsikhin",
-   "login": "Hirurgo",
    "city": "Минск",
    "students": {
     "tanya98": {
@@ -6036,7 +5991,6 @@
   },
   "asharapa": {
    "name": "Anton Sharapa",
-   "login": "asharapa",
    "city": "Минск",
    "students": {
     "mentos2805": {
@@ -6116,7 +6070,6 @@
   },
   "cyrilshalyapin": {
    "name": "Kiryl Shaliapin",
-   "login": "CyrilShalyapin",
    "city": "Минск",
    "students": {
     "sergeyakzhik": {
@@ -6241,7 +6194,6 @@
   },
   "ilyalisitsin": {
    "name": "Illia Sauchuk",
-   "login": "IlyaLisitsin",
    "city": "Минск",
    "students": {
     "meller96": {
@@ -6420,7 +6372,6 @@
   },
   "katya-sanko": {
    "name": "Ekaterina Sanko",
-   "login": "katya-sanko",
    "city": "Минск",
    "students": {
     "kyleshovbb": {
@@ -6538,7 +6489,6 @@
   },
   "yulia9": {
    "name": "Yuliya Samuilik",
-   "login": "yulia9",
    "city": "Минск",
    "students": {
     "prometei299": {
@@ -6661,7 +6611,6 @@
   },
   "sambl4": {
    "name": "Dzmitry Samuilik",
-   "login": "Sambl4",
    "city": "Минск",
    "students": {
     "sches": {
@@ -6772,7 +6721,6 @@
   },
   "erutkovsky": {
    "name": "Yauheni Rutkouski",
-   "login": "erutkovsky",
    "city": "Минск",
    "students": {
     "hecateenitharmon": {
@@ -6912,7 +6860,6 @@
   },
   "rudikaleksandr": {
    "name": "Aliaksandr Rudzin",
-   "login": "RudikAleksandr",
    "city": "Минск",
    "students": {
     "mrchester": {
@@ -7074,7 +7021,6 @@
   },
   "nikitarudy": {
    "name": "Mikita Rudy",
-   "login": "NikitaRudy",
    "city": "Минск",
    "students": {
     "sad4itananda": {
@@ -7253,7 +7199,6 @@
   },
   "rianby64": {
    "name": "Andres Rios",
-   "login": "rianby64",
    "city": "Минск",
    "students": {
     "yaroslav-mig": {
@@ -7430,7 +7375,6 @@
   },
   "dzianisreznik": {
    "name": "Dzianis Reznik",
-   "login": "dzianisreznik",
    "city": "Минск",
    "students": {
     "eugene3112": {
@@ -7635,7 +7579,6 @@
   },
   "xelsoid": {
    "name": "Artsiom Reutovich",
-   "login": "Xelsoid",
    "city": "Минск",
    "students": {
     "ivanmatsur": {
@@ -7739,7 +7682,6 @@
   },
   "razumovich": {
    "name": "Aliaksandr Razumovich",
-   "login": "razumovich",
    "city": "Минск",
    "students": {
     "kvatoferma": {
@@ -7802,7 +7744,6 @@
   },
   "dmitryromaniuk": {
    "name": "Dzmitry Ramaniuk",
-   "login": "DmitryRomaniuk",
    "city": "Минск",
    "students": {
     "andreikrivets": {
@@ -7914,7 +7855,6 @@
   },
   "yralko": {
    "name": "Yauheni Ralko",
-   "login": "yralko",
    "city": "Минск",
    "students": {
     "anna-pronovich": {
@@ -8042,7 +7982,6 @@
   },
   "anastasiaprivalova": {
    "name": "Anastasiya Pryvalava",
-   "login": "anastasiaprivalova",
    "city": "Минск",
    "students": {
     "sergaunt": {
@@ -8141,7 +8080,6 @@
   },
   "diprudnikov": {
    "name": "Dzmitry Prudnikau",
-   "login": "diprudnikov",
    "city": "Минск",
    "students": {
     "leshka98": {
@@ -8278,7 +8216,6 @@
   },
   "anik188": {
    "name": "Hanna Pratasevich",
-   "login": "Anik188",
    "city": "Минск",
    "students": {
     "horoshaya": {
@@ -8497,7 +8434,6 @@
   },
   "lithiumfallen": {
    "name": "Artsiom Piakhota",
-   "login": "LithiumFallen",
    "city": "Минск",
    "students": {
     "sunrisekovalevski": {
@@ -8622,7 +8558,6 @@
   },
   "pasyukevich": {
    "name": "Yauheni Pasiukevich",
-   "login": "pasyukevich",
    "city": "Минск",
    "students": {
     "yanachchchka": {
@@ -8760,7 +8695,6 @@
   },
   "kirillpanov": {
    "name": "Kiryl Panou",
-   "login": "kirillpanov",
    "city": "Минск",
    "students": {
     "helpthewalrus": {
@@ -8913,7 +8847,6 @@
   },
   "dzmitrypanamarenka": {
    "name": "Dzmitry Panamarenka",
-   "login": "dzmitrypanamarenka",
    "city": "Минск",
    "students": {
     "stas4it": {
@@ -9042,7 +8975,6 @@
   },
   "apalchys": {
    "name": "Andrei Palchys",
-   "login": "apalchys",
    "city": "Минск",
    "students": {
     "vladyaremeko": {
@@ -9155,7 +9087,6 @@
   },
   "olgapoddubko": {
    "name": "Volha Paddubka",
-   "login": "OlgaPoddubko",
    "city": "Минск",
    "students": {
     "shet1990": {
@@ -9303,7 +9234,6 @@
   },
   "alexno": {
    "name": "Aliaksandr Novik",
-   "login": "AlexNo",
    "city": "Минск",
    "students": {
     "xlopec23": {
@@ -9437,7 +9367,6 @@
   },
   "yananeronskaya": {
    "name": "Yana Niaronskaya",
-   "login": "YanaNeronskaya",
    "city": "Минск",
    "students": {
     "ilyay95": {
@@ -9568,7 +9497,6 @@
   },
   "natashanekazakova": {
    "name": "Natalya Nekazakova",
-   "login": "natashanekazakova",
    "city": "Минск",
    "students": {
     "wladimirmihalev": {
@@ -9650,7 +9578,6 @@
   },
   "mikhaillu": {
    "name": "Mikhail Naharayeu",
-   "login": "MikhailLU",
    "city": "Минск",
    "students": {
     "elusiveway": {
@@ -9759,7 +9686,6 @@
   },
   "maryia-n-n": {
    "name": "Maryia Nabzdorava",
-   "login": "Maryia-N-N",
    "city": "Минск",
    "students": {
     "crypto-kittensseller": {
@@ -9882,7 +9808,6 @@
   },
   "mustafazadear": {
    "name": "Arif Mustafazade",
-   "login": "mustafazadeAR",
    "city": "Минск",
    "students": {
     "sobolevyuri": {
@@ -10006,7 +9931,6 @@
   },
   "barysmarukhin": {
    "name": "Barys Marukhin",
-   "login": "barysmarukhin",
    "city": "Минск",
    "students": {
     "denhock": {
@@ -10129,7 +10053,6 @@
   },
   "themarkmarrone": {
    "name": "Andrei Markovich",
-   "login": "themarkmarrone",
    "city": "Минск",
    "students": {
     "ener9ettt": {
@@ -10273,7 +10196,6 @@
   },
   "olgamardvilko": {
    "name": "Volha Mardvilka",
-   "login": "olgamardvilko",
    "city": "Минск",
    "students": {
     "vladsanko": {
@@ -10383,7 +10305,6 @@
   },
   "aliaksandrmamonenka": {
    "name": "Aliaksandr Mamonenka",
-   "login": "AliaksandrMamonenka",
    "city": "Минск",
    "students": {
     "moluram": {
@@ -10475,7 +10396,6 @@
   },
   "muskos": {
    "name": "Aliaksei Makas",
-   "login": "Muskos",
    "city": "Минск",
    "students": {
     "vireah": {
@@ -10612,7 +10532,6 @@
   },
   "lykovartem": {
    "name": "Artsiom Lykau",
-   "login": "lykovartem",
    "city": "Минск",
    "students": {
     "glebhleb": {
@@ -10722,7 +10641,6 @@
   },
   "lipskiy-aleh": {
    "name": "Aleh Lipski",
-   "login": "lipskiy-aleh",
    "city": "Минск",
    "students": {
     "agentumbrella": {
@@ -10872,7 +10790,6 @@
   },
   "liaukou": {
    "name": "Andrei Liaukou",
-   "login": "liaukou",
    "city": "Минск",
    "students": {
     "dimasquared": {
@@ -10992,7 +10909,6 @@
   },
   "lenkouandrei": {
    "name": "Andrei Lenkou",
-   "login": "LenkouAndrei",
    "city": "Минск",
    "students": {
     "goner52": {
@@ -11157,7 +11073,6 @@
   },
   "lavitr": {
    "name": "Ron Lavit",
-   "login": "Lavitr",
    "city": "Минск",
    "students": {
     "mrdemonrush": {
@@ -11280,7 +11195,6 @@
   },
   "artemlatyshev": {
    "name": "Artsiom Latyshau",
-   "login": "artemlatyshev",
    "city": "Минск",
    "students": {
     "sergeiobolevich": {
@@ -11399,7 +11313,6 @@
   },
   "viachaslau-latushkin": {
    "name": "Viachaslau Latushkin",
-   "login": "viachaslau-latushkin",
    "city": "Минск",
    "students": {
     "alexandrasitnikova": {
@@ -11511,7 +11424,6 @@
   },
   "aliaksandrkuzniatsou": {
    "name": "Aliaksandr Kuzniatsou",
-   "login": "AliaksandrKuzniatsou",
    "city": "Минск",
    "students": {
     "apivovarchik": {
@@ -11624,7 +11536,6 @@
   },
   "pavelkuzniatsou": {
    "name": "Pavel Kuzniatsou",
-   "login": "PavelKuzniatsou",
    "city": "Минск",
    "students": {
     "maxbrainygame": {
@@ -11766,7 +11677,6 @@
   },
   "agentkb": {
    "name": "Bahdan Kutas",
-   "login": "AgentKB",
    "city": "Минск",
    "students": {
     "litwin90": {
@@ -11956,7 +11866,6 @@
   },
   "woozzone": {
    "name": "Viktar Kurbatski",
-   "login": "Woozzone",
    "city": "Минск",
    "students": {
     "bardashevich-matvei": {
@@ -12100,7 +12009,6 @@
   },
   "kukolcaalexandra": {
    "name": "Alexandra Kukolca",
-   "login": "KukolcaAlexandra",
    "city": "Минск",
    "students": {
     "sxe2255": {
@@ -12240,7 +12148,6 @@
   },
   "xeontem": {
    "name": "artsiom kukharev",
-   "login": "xeontem",
    "city": "Минск",
    "students": {
     "silichstudent": {
@@ -12385,7 +12292,6 @@
   },
   "linus2228": {
    "name": "Dzmitry Kudla",
-   "login": "Linus2228",
    "city": "Минск",
    "students": {
     "sergeybaranovichi": {
@@ -12514,7 +12420,6 @@
   },
   "shank111": {
    "name": "Denis Kravchenko",
-   "login": "Shank111",
    "city": "Минск",
    "students": {
     "kirillfilipp": {
@@ -12637,7 +12542,6 @@
   },
   "aliakseikrauchanka": {
    "name": "ALIAKSEI KRAUCHANKA",
-   "login": "aliakseikrauchanka",
    "city": "Минск",
    "students": {
     "latiertiw": {
@@ -12725,7 +12629,6 @@
   },
   "error404as": {
    "name": "Vitali Krasnou",
-   "login": "error404as",
    "city": "Минск",
    "students": {
     "robertiqk": {
@@ -12833,7 +12736,6 @@
   },
   "aliaksandrkrasnou": {
    "name": "Aliaksandr Krasnou",
-   "login": "aliaksandrkrasnou",
    "city": "Минск",
    "students": {
     "andrey-lobach": {
@@ -12931,7 +12833,6 @@
   },
   "vladislavkovaliov": {
    "name": "Vladislav Kovaliov",
-   "login": "vladislavkovaliov",
    "city": "Минск",
    "students": {
     "roman-nareiko": {
@@ -12994,7 +12895,6 @@
   },
   "korotkin": {
    "name": "Sergeh Korotkin",
-   "login": "korotkin",
    "city": "Минск",
    "students": {
     "pavelsab": {
@@ -13099,7 +12999,6 @@
   },
   "papialoushka": {
    "name": "Alena Korachkina",
-   "login": "Papialoushka",
    "city": "Минск",
    "students": {
     "dmitryduk3": {
@@ -13162,7 +13061,6 @@
   },
   "candentira": {
    "name": "Viktoryia Klimenka",
-   "login": "candentira",
    "city": "Минск",
    "students": {
     "palessie": {
@@ -13293,7 +13191,6 @@
   },
   "sleepwalky": {
    "name": "Aliaksandr Kleshchukevich",
-   "login": "sleepwalky",
    "city": "Минск",
    "students": {
     "noviceblunderer": {
@@ -13433,7 +13330,6 @@
   },
   "fallenby1": {
    "name": "Aliaksei Khlebnikau",
-   "login": "FallenBY1",
    "city": "Минск",
    "students": {
     "katepavlovich": {
@@ -13576,7 +13472,6 @@
   },
   "arturminsksum": {
    "name": "Artur Kazlouski",
-   "login": "arturminsksum",
    "city": "Минск",
    "students": {
     "a-lika": {
@@ -13678,7 +13573,6 @@
   },
   "shparkivozhyk": {
    "name": "Maryna Kavetskaya",
-   "login": "shparkivozhyk",
    "city": "Минск",
    "students": {
     "sburnt": {
@@ -13787,7 +13681,6 @@
   },
   "nikkov17": {
    "name": "Mikalai Kavaliou",
-   "login": "Nikkov17",
    "city": "Минск",
    "students": {
     "artichoks": {
@@ -13981,7 +13874,6 @@
   },
   "yanaselin": {
    "name": "Yana Karotkina",
-   "login": "yanaSelin",
    "city": "Минск",
    "students": {
     "bsiropchik": {
@@ -14118,7 +14010,6 @@
   },
   "katekaranets": {
    "name": "Katsiaryna Karanets",
-   "login": "katekaranets",
    "city": "Минск",
    "students": {
     "kozelkoff": {
@@ -14263,7 +14154,6 @@
   },
   "ivashkovaliza": {
    "name": "Elizaveta Ivashkova",
-   "login": "ivashkovaliza",
    "city": "Минск",
    "students": {
     "stationtostation": {
@@ -14390,7 +14280,6 @@
   },
   "helenegritsuk": {
    "name": "Alena Hrytsuk",
-   "login": "HeleneGritsuk",
    "city": "Минск",
    "students": {
     "devildummy": {
@@ -14541,7 +14430,6 @@
   },
   "falizyer": {
    "name": "Dzmitry Hrachou",
-   "login": "falizyer",
    "city": "Минск",
    "students": {
     "bespodobno": {
@@ -14673,7 +14561,6 @@
   },
   "annagrebenyuk": {
    "name": "Hanna Hrabianiuk",
-   "login": "AnnaGrebenyuk",
    "city": "Минск",
    "students": {
     "yuliyahlukhatarenka": {
@@ -14784,7 +14671,6 @@
   },
   "evgladkiy": {
    "name": "Yauheni Hladki",
-   "login": "evgladkiy",
    "city": "Минск",
    "students": {
     "evgenijkorob": {
@@ -14926,7 +14812,6 @@
   },
   "evgeniigrh": {
    "name": "Yauheni Harokh",
-   "login": "EvgeniiGrh",
    "city": "Минск",
    "students": {
     "antonprotas": {
@@ -15073,7 +14958,6 @@
   },
   "amsterget": {
    "name": "Ilya Hancharyk",
-   "login": "AmsterGet",
    "city": "Минск",
    "students": {
     "tebeskashi": {
@@ -15249,7 +15133,6 @@
   },
   "yuliahope": {
    "name": "Yuliya Haluza",
-   "login": "yuliaHope",
    "city": "Минск",
    "students": {
     "artyommakarov": {
@@ -15354,7 +15237,6 @@
   },
   "predokmif": {
    "name": "Konstantin Grigorchuk",
-   "login": "PredokMiF",
    "city": "Минск",
    "students": {
     "belkacraft": {
@@ -15488,7 +15370,6 @@
   },
   "valeragorobets": {
    "name": "Valeri Gorobets",
-   "login": "valeraGorobets",
    "city": "Минск",
    "students": {
     "ivandubrouski": {
@@ -15616,7 +15497,6 @@
   },
   "pavelglebov": {
    "name": "Pavel Glebov",
-   "login": "pavelglebov",
    "city": "Минск",
    "students": {
     "oaliona": {
@@ -15760,7 +15640,6 @@
   },
   "aliaksandrfiodarau": {
    "name": "Aliaksandr Fiodarau",
-   "login": "aliaksandrfiodarau",
    "city": "Минск",
    "students": {
     "burach0k": {
@@ -15867,7 +15746,6 @@
   },
   "denisdashkevich": {
    "name": "Dzianis Dashkevich",
-   "login": "DenisDashkevich",
    "city": "Минск",
    "students": {
     "yevganytyurin": {
@@ -16022,7 +15900,6 @@
   },
   "sergey-churilin": {
    "name": "Siarhei Churylin",
-   "login": "Sergey-Churilin",
    "city": "Минск",
    "students": {
     "gegorov": {
@@ -16147,7 +16024,6 @@
   },
   "dzmitry-chuchva": {
    "name": "Dzmitry Chuchva",
-   "login": "dzmitry-chuchva",
    "city": "Минск",
    "students": {
     "modrix": {
@@ -16223,7 +16099,6 @@
   },
   "eugenech": {
    "name": "Yauhen Chaika",
-   "login": "EugeneCh",
    "city": "Минск",
    "students": {
     "ivchenkopavel": {
@@ -16454,7 +16329,6 @@
   },
   "elkinny": {
    "name": "Viktoryia Budzionnaya",
-   "login": "elkinny",
    "city": "Минск",
    "students": {
     "kottanakor": {
@@ -16564,7 +16438,6 @@
   },
   "den-bozhyk": {
    "name": "Denis Bozhyk",
-   "login": "den-bozhyk",
    "city": "Минск",
    "students": {
     "mailikey": {
@@ -16717,7 +16590,6 @@
   },
   "kbirulia": {
    "name": "Katsiaryna Birulia",
-   "login": "kbirulia",
    "city": "Минск",
    "students": {
     "vergonini": {
@@ -16808,7 +16680,6 @@
   },
   "bezakdenis": {
    "name": "Denis Bezak",
-   "login": "BezakDenis",
    "city": "Минск",
    "students": {
     "aleks210219": {
@@ -16926,7 +16797,6 @@
   },
   "toshabely": {
    "name": "Anton Bely",
-   "login": "ToshaBely",
    "city": "Минск",
    "students": {
     "arkhipenka": {
@@ -17024,7 +16894,6 @@
   },
   "belousova-natallia": {
    "name": "Natallia Belavusava",
-   "login": "belousova-natallia",
    "city": "Минск",
    "students": {
     "garnich": {
@@ -17123,7 +16992,6 @@
   },
   "tomasspring": {
    "name": "Vera Barysava",
-   "login": "TomasSpring",
    "city": "Минск",
    "students": {
     "annakolesnikova": {
@@ -17222,7 +17090,6 @@
   },
   "ximet": {
    "name": "Dmitri Bardt",
-   "login": "ximet",
    "city": "Минск",
    "students": {
     "dianatsevan": {
@@ -17376,7 +17243,6 @@
   },
   "tanya-bakhmatovich": {
    "name": "Tatsiana Bakhmatovich",
-   "login": "Tanya-Bakhmatovich",
    "city": "Минск",
    "students": {
     "fogfug1": {
@@ -17473,7 +17339,6 @@
   },
   "sintet": {
    "name": "Dzmitry Bahachuk",
-   "login": "sintet",
    "city": "Минск",
    "students": {
     "aspowerr": {
@@ -17597,7 +17462,6 @@
   },
   "polinabobrovnik": {
    "name": "Palina Babrounik",
-   "login": "PolinaBobrovnik",
    "city": "Минск",
    "students": {
     "wowprojeck": {
@@ -17763,7 +17627,6 @@
   },
   "sergeyshatter": {
    "name": "Siarhei Ausianik",
-   "login": "SergeyShatter",
    "city": "Минск",
    "students": {
     "cuppake": {
@@ -17903,7 +17766,6 @@
   },
   "tr3v3r": {
    "name": "Aliaksei Astafyeu",
-   "login": "tr3v3r",
    "city": "Минск",
    "students": {
     "bezchekera": {
@@ -18030,7 +17892,6 @@
   },
   "vinfinit": {
    "name": "Uladzimir Artsemenka",
-   "login": "vinfinit",
    "city": "Минск",
    "students": {
     "egoncharov": {
@@ -18120,7 +17981,6 @@
   },
   "amelk9n": {
    "name": "Aliaksandr Amialkovich",
-   "login": "amelk9n",
    "city": "Минск",
    "students": {
     "vitalur": {
@@ -18235,7 +18095,6 @@
   },
   "alidzm": {
    "name": "Dzmitry Aliaksandrau",
-   "login": "alidzm",
    "city": "Минск",
    "students": {
     "devbarden": {
@@ -18402,7 +18261,6 @@
   },
   "juliaalaeva": {
    "name": "Yuliia Alaieva",
-   "login": "JuliaAlaeva",
    "city": "Минск",
    "students": {
     "mariannagarbuzova": {
@@ -18521,7 +18379,6 @@
   },
   "viktoryiaverasava": {
    "name": "Viktoryia Verasava",
-   "login": "ViktoryiaVerasava",
    "city": "Могилев",
    "students": {
     "psychotheus": {
@@ -18641,7 +18498,6 @@
   },
   "stsepchanka": {
    "name": "Tatsiana Stsepchanka",
-   "login": "stsepchanka",
    "city": "Могилев",
    "students": {
     "max-violent": {
@@ -18747,7 +18603,6 @@
   },
   "mkinitcpio": {
    "name": "Aliaksandr Kazhamiaka",
-   "login": "mkinitcpio",
    "city": "Могилев",
    "students": {
     "slayer110": {
@@ -18881,7 +18736,6 @@
   },
   "clainatomi-zero": {
    "name": "Maksim Kantsavy",
-   "login": "clainatomi-zero",
    "city": "Могилев",
    "students": {
     "alexandrshlyaeu": {
@@ -18944,7 +18798,6 @@
   },
   "famchankou": {
    "name": "Aliaksandr Famchankou",
-   "login": "famchankou",
    "city": "Могилев",
    "students": {
     "vladimirdobrik": {
