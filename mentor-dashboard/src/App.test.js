@@ -5,43 +5,15 @@ import Adapter from 'enzyme-adapter-react-16';
 
 Enzyme.configure({adapter: new Adapter()});
 
-it('checks the components rendering', () => {
-  const mock = {
-    "tasks": {
-     "names": ["testTaskName"],
-     "links": ["testTaskLink"],
-     "statuses": ["testTaskStatus"]
-    },
-    "mentors": {
-     "testMentor": {
-      "name": "testMentorName",
-      "login": "testMentor",
-      "city": "testCity",
-      "students": {
-       "testStudent": {
-        "score": [
-         {
-          "linkPR": "testLink",
-          "mark": "testMark"
-         },
-        
-        ],
-        "gitHubLink": "testGitHubLink"
-       }
-      }
-    }
-  }
-}
-  const wrapper = mount(<App />);
-  wrapper.setState({ data: mock, currentMentor: 'testMentor'});
+it('checks rendering', () => {
+  const app = mount(<App />);
   const elems = [
     '.app',
-    '.appHeader',
-    '.appBody',
-    '.tasksList',
-    '.studentsList'
+    '.entrance',
+    '.btn',
+    '.fileLinks',
   ]
   elems.forEach(item => {
-    expect(wrapper.find(item).exists()).toBe(true);
+    expect(app.find(item).exists()).toBe(true);
   })
 });
