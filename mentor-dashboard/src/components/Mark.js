@@ -10,7 +10,9 @@ function Mark(props) {
     default: className = 'statusToDo'; break;
   }
   return (
-    <li className={className}><a href={props.link} title={props.comment}>{ props.mark }</a></li>
+    <li className={className}>
+      <a href={props.link} title={props.comment}>{ props.mark }</a>
+    </li>
   )
 }
 

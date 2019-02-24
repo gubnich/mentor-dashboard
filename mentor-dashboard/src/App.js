@@ -24,7 +24,6 @@ class App extends Component {
         return response.json()
       })
       .then(data => {
-        console.log('data', data);
         const option = Object.keys(data.mentors).map(item => {
           return {value: item, label: item};
         })
@@ -48,13 +47,10 @@ class App extends Component {
           } else {
             this.setState({ user : user, currentMentor: undefined });
           }
-          
-          console.log(response);
         })
     })
   }
   handleChange(value){
-    console.log(value.value);
     localStorage.setItem('mentorLogin', value.value);
     this.setState({ currentMentor : value.value });
   }
@@ -72,7 +68,7 @@ class App extends Component {
     };
     return option;
   }
-  render() {console.log(this.state.currentMentor, this.state.user);
+  render() {
     if (sessionStorage.session) {
       return (
       <div className="app">
